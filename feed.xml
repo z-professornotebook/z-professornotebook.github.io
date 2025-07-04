@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>z-professor.github.io</title>
+    <link href="https://z-professor.github.io/feed.xml" rel="self" />
+    <link href="https://z-professor.github.io" />
+    <updated>2025-06-22T02:03:10+08:00</updated>
+    <author>
+        <name>ZPROFESSOR</name>
+    </author>
+    <id>https://z-professor.github.io</id>
+
+    <entry>
+        <title>githubbloger19</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger19.html"/>
+        <id>https://z-professor.github.io/githubbloger19.html</id>
+
+        <updated>2025-06-20T01:31:11+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>githubbloger18</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger18.html"/>
+        <id>https://z-professor.github.io/githubbloger18.html</id>
+
+        <updated>2025-06-20T01:30:57+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>githubbloger17</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger17.html"/>
+        <id>https://z-professor.github.io/githubbloger17.html</id>
+
+        <updated>2025-06-20T01:30:45+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>网络电视盒子如何看全球IP电视</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger16.html"/>
+        <id>https://z-professor.github.io/githubbloger16.html</id>
+            <category term="游戏与网络"/>
+
+        <updated>2025-06-19T23:50:21+08:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>首先电视盒子一定要绝对可控自由的，我推荐上网购买HK1电视盒子（外贸电视盒子）因为系统干净自由配置也真实，网上很多便宜的电视盒子基本上都是电子垃圾，主要功能锁定，配置虚假并且无法自由安装应用。</p>
+<p>然后还需要购买飞鼠遥控器，这样比较容易安装应用，当然还有很多方式可以安装，但本着不折腾的原则，还是建议使用飞鼠遥控器。</p>
+<p>最后去网上下载关键的应用和电视台M3U。</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>首先电视盒子一定要绝对可控自由的，我推荐上网购买HK1电视盒子（外贸电视盒子）因为系统干净自由配置也真实，网上很多便宜的电视盒子基本上都是电子垃圾，主要功能锁定，配置虚假并且无法自由安装应用。</p>
+<p>然后还需要购买飞鼠遥控器，这样比较容易安装应用，当然还有很多方式可以安装，但本着不折腾的原则，还是建议使用飞鼠遥控器。</p>
+<p>最后去网上下载关键的应用和电视台M3U。</p>
+
+<p>首选播放应用推荐：<br><br><a href="https://github.com/xiaiohuan/TiviMate" target="_blank" rel="noopener noreferrer">TiviMate</a> （遇断流或者网络卡顿会自动刷新重载，播放非常稳定，解码强，支持epg和回看功能，支持每个频道单独设置不同的画面比例，下载那个<a href="https://github.com/xiaiohuan/TiviMate/blob/main/TiviMate-2.7.5_%E4%BB%98%E8%B4%B9%E7%A0%B4%E8%A7%A3%E7%89%88.apk" title="TiviMate-2.7.5_付费破解版.apk" target="_blank" rel="noopener noreferrer">TiviMate-2.7.5_付费破解版.apk</a>）<br><br><a href="https://kodi.tv/download/android" target="_blank" rel="noopener noreferrer">KODI</a>属于备用应用，因为KODI需要用插件而且插件不稳定。<br><br></p>
+<hr>
+<p>然后是电视台地址和节目表。</p>
+<p>【<span style="color: #e03e2d;">电视台地址M3U</span>】<a href="https://iptv-org.github.io/iptv/index.m3u" target="_blank" rel="noopener noreferrer">收录全球 8000 多个 IPTV 网络直播源</a>。<br>【<span style="color: #e03e2d;">电视台节目表EPG</span>】<a href="https://epg.pw/xmltv/epg.xml" target="_blank" rel="noopener noreferrer">iptv-org/epg</a></p>
+<hr>
+<p><br><br>============TiviMate使用方法教学=================</p>
+<p>1：遥控器选择添加节目列表(你需要点击“Use anyway”然后导入节目源,点击之后选择“添加节目列表”)</p>
+<p>2：把方框中的链接填入节目列表地址，输入（比如：https://xxx-org.github.io/iptv/xxx/xxx.m3u），点击下一个</p>
+<p>3：把方框中的链接填入节目预告源地址，对于第二类用户，输入（比如：http://epg.xxx.xxx:8000/e.xml），之后就部署完毕了。</p>
+<p>==========================================</p>
+<p>足不出户看世界，看世界的电视台，网络电视盒子。</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>俄罗斯最大游戏资源下载网站：Byrutor</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger15.html"/>
+        <id>https://z-professor.github.io/githubbloger15.html</id>
+            <category term="游戏与网络"/>
+
+        <updated>2025-06-19T23:50:09+08:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>Byrutor（<a href="https://byrutgame.org/" target="_blank" rel="noopener noreferrer">https://byrutgame.org/</a>）是一个来自俄罗斯的热门游戏资源网站，以其丰富的破解游戏资源和便捷的下载体验深受玩家喜爱。该平台拥有超过23,880款游戏资源，涵盖从最新热门大作到经典老游戏的多种类型，几乎包含了Steam平台上的所有游戏。Byrutor不仅为玩家提供了免费获取游戏的渠道，还通过社区互动和详细的资源介绍，打造了一个活跃的游戏分享平台。无论是追求最新游戏的玩家，还是喜欢探索经典作品的爱好者，Byrutor都能满足他们的需求。</p>
+<p>丰富的游戏资源<br>Byrutor 拥有庞大的游戏资源库，涵盖各种类型和风格的游戏，从最新的3A大作到经典老游戏，几乎应有尽有。</p>
+<p>免费且无需注册<br>用户无需注册或登录账号，即可免费下载游戏资源。这种无门槛的下载方式极大地简化了获取游戏的流程，让玩家能够快速体验心仪的游戏。</p>
+<p>多语言支持<br>Byrutor 的界面支持俄语和英语，部分用户还可以通过浏览器翻译插件将其转换为中文，方便不同语言背景的玩家使用。</p>
+<p>详细的资源介绍<br>每个游戏都有详细的介绍页面，包括游戏背景故事、玩法特色、系统配置要求、安装步骤、游戏截图以及玩家评论和评分。这些信息帮助用户在下载前全面了解游戏内容，从而做出更明智的决策。</p>
+<p>高效的下载方式<br>Byrutor 提供<span style="color: #e03e2d;">BT种子</span>和<span style="color: #e03e2d;">磁力</span>链接下载服务，用户可以通过<a href="https://xiu.lanzoub.com/b073dnr7g" target="_blank" rel="noopener noreferrer">QBittorrent</a>等工具实现高速下载。这种下载方式不仅速度快，还能有效避免文件损坏等问题。</p>
+<p>社区互动<br>Byrutor 提供在线聊天室，用户可以在这里交流游戏心得、分享经验或寻求帮助。这种社区互动功能增强了玩家之间的联系，提升了平台的活跃度。</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Byrutor（<a href="https://byrutgame.org/" target="_blank" rel="noopener noreferrer">https://byrutgame.org/</a>）是一个来自俄罗斯的热门游戏资源网站，以其丰富的破解游戏资源和便捷的下载体验深受玩家喜爱。该平台拥有超过23,880款游戏资源，涵盖从最新热门大作到经典老游戏的多种类型，几乎包含了Steam平台上的所有游戏。Byrutor不仅为玩家提供了免费获取游戏的渠道，还通过社区互动和详细的资源介绍，打造了一个活跃的游戏分享平台。无论是追求最新游戏的玩家，还是喜欢探索经典作品的爱好者，Byrutor都能满足他们的需求。</p>
+<p>丰富的游戏资源<br>Byrutor 拥有庞大的游戏资源库，涵盖各种类型和风格的游戏，从最新的3A大作到经典老游戏，几乎应有尽有。</p>
+<p>免费且无需注册<br>用户无需注册或登录账号，即可免费下载游戏资源。这种无门槛的下载方式极大地简化了获取游戏的流程，让玩家能够快速体验心仪的游戏。</p>
+<p>多语言支持<br>Byrutor 的界面支持俄语和英语，部分用户还可以通过浏览器翻译插件将其转换为中文，方便不同语言背景的玩家使用。</p>
+<p>详细的资源介绍<br>每个游戏都有详细的介绍页面，包括游戏背景故事、玩法特色、系统配置要求、安装步骤、游戏截图以及玩家评论和评分。这些信息帮助用户在下载前全面了解游戏内容，从而做出更明智的决策。</p>
+<p>高效的下载方式<br>Byrutor 提供<span style="color: #e03e2d;">BT种子</span>和<span style="color: #e03e2d;">磁力</span>链接下载服务，用户可以通过<a href="https://xiu.lanzoub.com/b073dnr7g" target="_blank" rel="noopener noreferrer">QBittorrent</a>等工具实现高速下载。这种下载方式不仅速度快，还能有效避免文件损坏等问题。</p>
+<p>社区互动<br>Byrutor 提供在线聊天室，用户可以在这里交流游戏心得、分享经验或寻求帮助。这种社区互动功能增强了玩家之间的联系，提升了平台的活跃度。</p>
+
+<h2 class="faq-title">Byrutor使用步骤</h2>
+<p>访问官网搜索游戏<br>访问网站：在浏览器中输入Byrutor的网址。如果界面显示为俄文，可以点击鼠标右键，选择“翻译成中文（简体）”。</p>
+<p>下载种子<br>点击下载：打开游戏资源页面后，点击“下载种子”按钮，将种子文件下载到本地。<br>下载建议：建议选择人气高的资源，因为人气高的资源通常下载速度更快。<br>安装下载工具：下载并安装迅雷或其他BT下载工具，如uTorrent。<br>打开种子文件：通过迅雷或其他BT下载工具打开下载的种子文件，即可开始下载游戏资源。<br>开始下载：将种子文件拖入下载工具后，工具会自动开始下载游戏资源。</p>
+<p>安装游戏<br>解压文件：下载完成后，使用解压工具（如WinRAR或7-zip）解压下载的文件。<br>创建快捷方式：进入解压后的文件夹，找到游戏的可执行文件（通常是.exe文件），右键选择“发送到桌面快捷方式”。<br>启动游戏：双击桌面图标，即可启动游戏。</p>
+<hr>
+<p> </p>
+<p>===================================<br>为了维护种子下载环境，建议BT和磁力下载尽量少用迅雷。<br>推荐下载软件：<a href="https://xiu.lanzoub.com/b073dnr7g" target="_blank" rel="noopener noreferrer">QBittorrent</a><br>关于中国P2P下载环境讨论和科普的内容，强烈要求观看：<br>【知乎帖】<a href="https://zhuanlan.zhihu.com/p/87193566" target="_blank" rel="noopener noreferrer">为什么国内 BT 环境如此恶劣？下载速度如此糟糕？</a><br>===================================</p>
+<p> </p>
+<hr>
+<h1 class="align-center"><span style="color: #e03e2d;"><strong>地址：<a href="https://byrutgame.org/" target="_blank" rel="nofollow noopener noreferrer">Byrutor游戏入口</a><br><br></strong></span></h1>
+<hr>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>真正无套路免费游戏下载网站：Koyso</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger13.html"/>
+        <id>https://z-professor.github.io/githubbloger13.html</id>
+            <category term="游戏与网络"/>
+
+        <updated>2025-06-18T12:57:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>本人强烈推荐：Koyso （<a href="https://koyso.to/" target="_blank" rel="noopener noreferrer">https://koyso.com/</a>）是一个专注于提供免费单机 PC 游戏资源的下载网站，自成立以来迅速在游戏爱好者中积累了广泛的知名度和用户基础。该平台以简洁直观的界面设计和便捷的下载方式著称，无需注册或登录即可直接下载游戏。Koyso 提供了丰富的游戏资源，涵盖动作、冒险、射击、策略、模拟等多种类型，包括热门游戏如《艾尔登法环》《赛博朋克2077》《荒野大镖客》等。此外，Koyso 的资源更新迅速，支持直链下载，下载速度极快，用户体验良好。</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>本人强烈推荐：Koyso （<a href="https://koyso.to/" target="_blank" rel="noopener noreferrer">https://koyso.com/</a>）是一个专注于提供免费单机 PC 游戏资源的下载网站，自成立以来迅速在游戏爱好者中积累了广泛的知名度和用户基础。该平台以简洁直观的界面设计和便捷的下载方式著称，无需注册或登录即可直接下载游戏。Koyso 提供了丰富的游戏资源，涵盖动作、冒险、射击、策略、模拟等多种类型，包括热门游戏如《艾尔登法环》《赛博朋克2077》《荒野大镖客》等。此外，Koyso 的资源更新迅速，支持直链下载，下载速度极快，用户体验良好。</p>
+
+<p>功能特点<br><br>海量资源 Koyso 收录了数千款热门单机 PC 游戏资源，涵盖动作、冒险、射击、休闲等多种类型，满足不同玩家的需求。无论是新手玩家还是资深玩家，都可以在 Koyso 找到适合自己的游戏资源。<br><br>简洁界面 Koyso 的界面设计简洁明了，主页展示游戏封面和名称，点击即可进入详情页面，操作简单易用。此外，网站还提供了详细的资源介绍和截图展示，帮助用户更好地了解游戏内容和玩法特点。</p>
+<p>直链下载 <strong><span style="text-decoration: underline;"><span style="color: #e03e2d; text-decoration: underline;">Koyso提供高速直链下载，无需通过复杂的网盘分享或积分兑换流程。用户无需注册或登录</span></span></strong>，直接点击下载链接即可快速获取游戏文件。这种直链下载方式不仅节省了时间，还避免了繁琐的操作步骤，极大地提升了用户体验。<span style="text-decoration: underline;"><strong><span style="color: #e03e2d; text-decoration: underline;">真正做到无套路免费游戏高速下载</span></strong></span>。（笔者注：比起那些二道贩，咱们还不如要么花钱支持正版，要么因为热爱真免费共享好资源。最坏的就是那些既不是正版又不是为爱共享的垃圾，因为这些人才是现在网络资源出现匮乏的真正元凶，它们举报那些真的免费分享资源的网站或个人，又忽悠你无法支持正版，挟持资源索要下载费用，真是十恶不赦，本人建议遇见那些各种套路收费盈利的盗版网站坚决予以举报。）</p>
+<p>简洁界面 Koyso的界面设计简洁明了，主页展示游戏封面和名称，点击即可进入详情页面。游戏分类清晰，用户可以根据自己的兴趣快速找到想要下载的游戏。此外，网站还提供了详细的游戏介绍和截图，帮助用户更好地了解游戏内容。<br><br>详细信息 每个游戏页面都包含详细的游戏描述、截图、安装教程和下载链接，方便用户快速获取所需资源。此外，Koyso 还为每款游戏提供了详细的下载和安装教程，涵盖解压、运行和常见问题解决，特别适合不熟悉破解游戏的新手用户。<br><br>多语言支持 Koyso支持多语言，包括中文简体，方便国内用户使用。这种多语言支持使得Koyso能够吸引全球范围内的用户，进一步扩大了其影响力。</p>
+<p>社区互动 Koyso设有玩家社区，用户可以在网站上留言、评论或分享游戏心得。这种社区互动不仅增强了用户的归属感和粘性，还为网站团队提供了宝贵的用户反馈和改进建议。<br><br>安全可靠 Koyso 声明所有资源均来源于网络分享，仅供学习和研究使用，禁止用于商业用途。虽然部分资源可能涉及破解内容，但网站建议用户搭配杀毒软件使用，以确保设备安全。<br><br>使用步骤<br><br>访问网站 打开浏览器，输入 <a href="https://koyso.com/" target="_blank" rel="noopener noreferrer">Koyso</a> 的官方网址，进入网站首页。<br><br>搜索游戏 在首页顶部的搜索框中输入游戏名称，如“艾尔登法环”或“赛博朋克2077”，点击搜索按钮。也可以通过分类浏览，按类别和子类别查找感兴趣的游戏。<br><br>查看游戏详情 点击搜索结果中的游戏名称，进入游戏详情页面，查看游戏封面、描述和截图。<br><br>下载游戏 点击页面右上角的“立即下载”按钮，选择下载方式（如直链下载）并开始下载。<br><br>安装游戏 下载完成后，根据游戏说明进行安装。Koyso 为每款游戏提供了详细的安装教程，帮助用户顺利运行游戏。<br><br>享受游戏 安装完成后，即可启动游戏，享受游玩乐趣。</p>
+<p>=========特别提示各位=========</p>
+<p>【<span style="color: #e03e2d;">注意</span>】：提防假冒网站，如果你通过搜索引擎搜索Koyso，可能会进入虚假Koyso，其表现为需要注册会员，并引导你成为收费会员。真正的Koyso只会跳出广告弹窗，并不需要注册下载，更不需要所谓收费VIP会员才能取得高速下载服务。</p>
+<p>====================================================</p>
+<hr>
+<h1 class="align-center"><span style="color: #e03e2d;"><strong>地址：<a href="https://koyso.to/" target="_blank" rel="nofollow noopener noreferrer">Koyso游戏入口</a><br><br></strong></span></h1>
+<hr>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>冠军足球经理01-02中文版</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger12.html"/>
+        <id>https://z-professor.github.io/githubbloger12.html</id>
+            <category term="游戏与网络"/>
+
+        <updated>2025-06-18T12:57:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    ℭ𝔥𝔞𝔪𝔭𝔦𝔬𝔫𝔰𝔥𝔦𝔭 𝔐𝔞𝔫𝔞𝔤𝔢𝔯 这是FM的开始，也是很多资深足球经理模拟游戏爱好者梦想开始的地方。 ▁ ▂ ▃ ▇ 下 ▇ ⒹⓄⓌⓃⓁⓄⒶⒹ ▇ 载 ▇ ▃ ▂ ▁ 冠军足球经理01-02中文版：【本站提供网盘资源】 【CM冠军足球经理01-02中文版下载】 冠军足球经理历史版本国外网站下载：【点击】 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂ ░ 相关： ————————————————— 【FMfans】CM01/02游戏及相关下载： https://fmfans.net/thread-31709-1-1.html RuRuの便当箱,提供综合下载： http://ruru52cm.ysepan.com/ 板油slbmasd的好东东（如果过期，后台密码123456）： http://slbmasd.ysepan.com/ ➤网站：&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 class="align-center"><span style="color: #843fa1;"><strong>ℭ𝔥𝔞𝔪𝔭𝔦𝔬𝔫𝔰𝔥𝔦𝔭 𝔐𝔞𝔫𝔞𝔤𝔢𝔯</strong></span></h1>
+<p>这是FM的开始，也是很多资深足球经理模拟游戏爱好者梦想开始的地方。</p>
+<div class="para_YSJB6 content_TTogx MARK_MODULE" data-tag="paragraph" data-uuid="go0djb0nub" data-idx="0-2"><span class="text_S3vZG" data-text="true">上世纪末本世纪初，著名足球模拟游戏，简称CM。</span></div>
+<div class="para_YSJB6 content_TTogx MARK_MODULE" data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3"><span class="text_S3vZG" data-text="true">英文全称championship manager，中文意思“冠军足球经理”。</span></div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3"> </div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3">▁ ▁ ▁ⓅⓈ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁</div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3"> </div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3">本人足球经理游戏的启蒙是EA出品的经典FIFA足球经理97，之后通过盗版盘接触了一些足球经理，那个年代没有汉化组所以都是靠着字典和蒙在玩，第一次接触CM就是CM3，当时对纯文字比赛实况完全无感，所以就此搁置，并且停下了玩足球经理游戏的脚步，直到CM0304出了小圆圈的实况比赛，才开始继续。但真正让我找到感觉的是FM2010这款，随着我年龄和该游戏版本的叠加，突然想要回归本源，感受一下纯文字的版本，也算是补课吧，就像玩MUD北大侠客行一样的心理。但是发现古老的版本几乎要在互联网绝迹了。便有了开这个笔记的想法，把资源聚拢一下给有相同兴趣的网友提供方便。</div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3"> </div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3">同时提示一下网友，这个游戏只能在虚拟机上运行。喜欢折腾的网友可以试一试，不喜欢折腾的网友就怀念便可，不是有首歌唱的嘛“相见不如怀念”。<br>实在喜欢折腾的网友请移步本站相关笔记。【<span style="color: #843fa1;">计算机复古必备之“虚拟机”</span>】</div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3"> </div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3">▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ ▁ </div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3"><hr></div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3"> </div>
+<div data-tag="paragraph" data-uuid="go0djb7i5e" data-idx="0-3">英文名：Championship Manager 0102 中文名：冠军足球经理0102 <br>开发制作：EIDOS 代理发行：世纪雷神 <br>上市时间：2001 游戏类型：模拟策略</div>
+<p>▁ ▂ ▃ ▇ 下 ▇ ⒹⓄⓌⓃⓁⓄⒶⒹ ▇ 载 ▇ ▃ ▂ ▁</p>
+<p>冠军足球经理01-02中文版：【本站提供网盘资源】</p>
+<p>【<a href="http://202.102.202.103:81/soft/sb/zqjl.rar" target="_blank" rel="noopener noreferrer">CM冠军足球经理01-02中文版下载</a>】</p>
+<p>冠军足球经理历史版本国外网站下载：【<a href="https://www.myabandonware.com/search/q/Championship+Manager" target="_blank" rel="noopener noreferrer">点击</a>】</p>
+<p>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂</p>
+<hr>
+<p>░ <strong>相关</strong>：<br>—————————————————</p>
+<p>【<a href="https://fmfans.net/" target="_blank" rel="noopener noreferrer">FMfans</a>】CM01/02游戏及相关下载：<br><a href="https://fmfans.net/thread-31709-1-1.html" target="_blank" rel="noopener noreferrer">https://fmfans.net/thread-31709-1-1.html</a><br><span style="font-family: 黑体;"><span style="font-size: large;">RuRuの便当箱,提供综合下载</span></span>：<br><a href="http://ruru52cm.ysepan.com/" target="_blank" rel="noopener noreferrer">http://ruru52cm.ysepan.com/</a><br>板油slbmasd的好东东（如果过期，后台密码123456）：<br><a href="http://slbmasd.ysepan.com/" target="_blank" rel="noopener noreferrer">http://slbmasd.ysepan.com/</a></p>
+<p> </p>
+<p>➤<strong>网站</strong>：<br>—————————————————</p>
+<p>【国外CM0102论坛】：<a href="https://champman0102.net/" target="_blank" rel="noopener noreferrer">https://champman0102.net/</a></p>
+<p>—————————————————</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>计算机复古必备之“虚拟机”</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger11.html"/>
+        <id>https://z-professor.github.io/githubbloger11.html</id>
+            <category term="应用与程序"/>
+
+        <updated>2025-06-18T12:56:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                     ╔══════════════════╗ ▏ 复古系 ▕ ▏ 之 ▕ ▏ 虚拟机 ▕ ╚══════════════════╝ 老PC经常会怀念过去的计算机岁月，那种环境和感觉让人陶醉。但是随着计算机技术的发展，很多应用和环境已经被淘汰或升级了，如何才能回到过去呢？虚拟机就是一个最佳解决方案。 虚拟机（Virtual Machine）指通过软件模拟的具有完整硬件系统功能的、运行在一个完全隔离环境中的完整计算机系统。在实体计算机中能够完成的工作在虚拟机中都能够实现。在计算机中创建虚拟机时，需要将实体机的部分硬盘和内存容量作为虚拟机的硬盘和内存容量。每个虚拟机都有独立的CMOS、硬盘和操作系统，可以像使用实体机一样对虚拟机进行操作。 虚拟机有很多的公司，有VMware(VMWare ACE)、Virtual Box和Virtual PC，它们都能在Windows系统上虚拟出多个计算机，现在最实用的就是“VMware Wworkstation Pro”。 ===相关教学整理============= 【关于如何安装虚拟机VMW的教学】 系统之家关于如何安装软件： https://www.xitongzhijia.net/soft/295135.html ======================== 【关于如何虚拟机VMW如何安装各系统的教学】 百度经验关于VMW如何安装WIN98系统的教学： https://jingyan.baidu.com/article/c1a3101e4ffa86de656debf5.html 腾讯云关于VMW如何安装XP系统教学：https://cloud.tencent.com/developer/article/2118626 CSDN关于VMW如何安装WIN7系统教学：&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center"> ╔══════════════════╗<br> ▏               复古系               ▕<br> ▏                   之                  ▕<br> ▏               虚拟机               ▕<br> ╚══════════════════╝</p>
+<p>老PC经常会怀念过去的计算机岁月，那种环境和感觉让人陶醉。但是随着计算机技术的发展，很多应用和环境已经被淘汰或升级了，如何才能回到过去呢？虚拟机就是一个最佳解决方案。<br><br>虚拟机（Virtual Machine）指通过软件模拟的具有完整硬件系统功能的、运行在一个完全隔离环境中的完整计算机系统。在实体计算机中能够完成的工作在虚拟机中都能够实现。在计算机中创建虚拟机时，需要将实体机的部分硬盘和内存容量作为虚拟机的硬盘和内存容量。每个虚拟机都有独立的CMOS、硬盘和操作系统，可以像使用实体机一样对虚拟机进行操作。<br>虚拟机有很多的公司，有VMware(VMWare ACE)、Virtual Box和Virtual PC，它们都能在Windows系统上虚拟出多个计算机，现在最实用的就是“VMware Wworkstation Pro”。</p>
+<p>===<span style="color: #843fa1;">相关教学整理</span>=============</p>
+<p>【关于如何安装虚拟机VMW的教学】<br><br>系统之家关于如何安装软件：<br><a href="https://www.xitongzhijia.net/soft/295135.html" target="_blank" rel="noopener noreferrer">https://www.xitongzhijia.net/soft/295135.html</a></p>
+<p>========================</p>
+<p>【关于如何虚拟机VMW如何安装各系统的教学】<br><br>百度经验关于VMW如何安装WIN98系统的教学：<br><a href="https://jingyan.baidu.com/article/c1a3101e4ffa86de656debf5.html" target="_blank" rel="noopener noreferrer">https://jingyan.baidu.com/article/c1a3101e4ffa86de656debf5.html</a><br>腾讯云关于VMW如何安装XP系统教学：<a href="https://cloud.tencent.com/developer/article/2118626" target="_blank" rel="noopener noreferrer">https://cloud.tencent.com/developer/article/2118626</a><br>CSDN关于VMW如何安装WIN7系统教学：<br><a href="https://blog.csdn.net/weixin_43785284/article/details/126124165" target="_blank" rel="noopener noreferrer">https://blog.csdn.net/weixin_43785284/article/details/126124165</a></p>
+<p>========================</p>
+<hr>
+<p>===<strong><span style="color: #843fa1;">虚拟机VMW下载</span></strong>===<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">去Vmware官网下载：</span><a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html" title="Vmware官网跳转" target="_blank" rel="nofollow noopener noreferrer">Vmware官网</a><br>系统之家提供的特别版：<a href="https://www.xitongzhijia.net/soft/295135.html" target="_blank" rel="noopener noreferrer">虚拟机VMware</a>（注意网页最下面的特别号码）<br>吾爱破解提供的特别版：<a href="https://www.52pojie.cn/thread-1804571-1-1.html" target="_blank" rel="noopener noreferrer">虚拟机合集+</a><br>=================</p>
+<p>系统要求<br>VM17：硬件要求高，Windows 10 或更高版64位<br><a href="https://customerconnect.vmware.com/cn/downloads/details?downloadGroup=WKST-1612-WIN&amp;productId=1038&amp;rPId=98567" target="_blank" rel="noopener noreferrer">VM16：硬件要求高，Windows 10 或更高版64位 <span style="color: #843fa1;">（推选使用该版本）</span></a><br>VM15：硬件要求中，Windows 7 或更高版64位<br>VM12：硬件要求低，Windows 7 或更高版64位<br>VM10：Windows XP 或更高版32位和64位旧版<br>注意：<br>VM17版本已经砍掉了虚拟磁盘映射功能，如果你要用这个功能的话千万别下载<br><span style="text-decoration: underline; color: #843fa1;"><strong><a href="https://download3.vmware.com/software/wkst/file/VMware-workstation-full-16.1.2-17966106.exe" target="_blank" rel="noopener noreferrer" style="color: #843fa1; text-decoration: underline;">VM16.1.2 是完美版，之后的版本，官方允许磁盘映射一次，再映射就报错了。</a></strong></span><br>VM14版本开始不支持某些旧的电脑硬件，会提示不支持或安装失败, 如遇到请退回12版本。</p>
+<p>===<span style="color: #843fa1;"><strong>Vmdk下载</strong></span>=======================</p>
+<p>虚拟机文件vmdk下载（免系统安装步骤，直接使用虚拟机VMW打开就能用）：<br>【cbmland】<a href="https://cbmland.com/post/329/vmware-vmdk-images-shared.html" target="_blank" rel="noopener noreferrer">VMware 虚拟机硬盘镜像共享(98、ME、2000、2003)</a>（<span style="text-decoration: underline;"><strong><span style="color: #843fa1; text-decoration: underline;">推选</span></strong></span>）【PCBeta】<a href="https://bbs.pcbeta.com/viewthread-1969501-1-1.html" target="_blank" rel="noopener noreferrer">64位 Windows XP 虚拟机，即开即用（怀旧必备）</a></p>
+<p>=================================</p>
+<p> </p>
+<hr>
+<p> </p>
+<p>一切准备就绪就可以大展身手啦！好好享受复古计算机环境吧。<br>这里给各位提供一个可以下载到老游戏的网站，方便各位好好享受虚拟机带来的乐趣。<br>(<span style="color: #843fa1;"><strong>提示：将下载的文件复制粘贴到虚拟机安装好的操作系统里就可以进行操作了。</strong></span>）</p>
+<h2>DOWNLOAD ABANDONWARE GAMES<br>FROM 1965 TO 2012</h2>
+<p>复古游戏下载网站【My abandonware】：<a href="https://www.myabandonware.com/" target="_blank" rel="noopener noreferrer">https://www.myabandonware.com/</a></p>
+<p>================================</p>
+<p>一个有趣的在线XP模拟网站：<br>【RebornXP】<a href="https://rebornxp.js.org/" target="_blank" rel="noopener noreferrer">https://rebornxp.js.org/</a><br>【windows93】<a href="https://www.windows93.net/" target="_blank" rel="noopener noreferrer">https://www.windows93.net/</a></p>
+<p>以上网站只是一个在线的虚拟系统，无法安装文件，游戏，以及保存内容，纯粹娱乐而已。</p>
+<p>================================</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>githubbloger10</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger10.html"/>
+        <id>https://z-professor.github.io/githubbloger10.html</id>
+
+        <updated>2025-06-17T15:55:00+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>网页版足球经理游戏：Sokker</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professor.github.io/githubbloger9.html"/>
+        <id>https://z-professor.github.io/githubbloger9.html</id>
+            <category term="游戏与网络"/>
+
+        <updated>2024-08-15T01:59:16+08:00</updated>
+            <summary>
+                <![CDATA[
+                    网页足球经理游戏里，我个人认为最像Football Manager（FM)和EA FIFA足球经理(EFM)的就是这款”Sokker“ 以全 3D 形式观看比赛！是这个游戏与别的网页足球经理最大的不同。以我玩过的网页足球经理游戏来看，要么有实况比赛画面的数据拉跨节奏拉跨，要么纯数据库游玩，缺少了实况的那种身临其境的代入感。总之Sokker因该是这些网页足球经理里把数据，模拟，实况，融合的最平衡的一款网页游戏了。体验效果基本能达到FM和EFM的感受了。 官方网站给出的介绍： 与 SOKKER 合作一起探索足球世界。 带领你的球队一举成名！ 有很多机会，因此可以通过各种方式取得成功。展示你的战术技能，证实自己是一名合格或者优秀的足球经理，发现有潜力的球员并发展成为真正的超级球员。让你的俱乐部成为豪门 - 也许有一天你甚至会带领国家队走向世界杯！ 独特的战术体系！ 计划你的球员在球场上的行为，并超越你的对手。多亏了独特的战术向导，你可以对球队的表现产生比任何其他经理更大的影响。 球员发展！ 通过雇用教练组和照顾俱乐部设施来培养您的球员。决定训练，发现球员的潜力，并创造真正的超级球员。谁知道呢，也许他们中的一个人甚至会在国家队首次亮相。 俱乐部基础设施！ 扩大您的俱乐部，照顾其设施。建造你梦想中的体育场，投资青年学院，并确定它的方向。但是，请记住睿智地选择优先级，考虑不周的成本可能是一个真正的负担。 以全 3D 形式观看比赛！ 看看你的想法和战术是否通过独特的比赛可视化给你带来了结果。没有其他足球经理能像你一样对球员在球场上的行为产生如此大的影响。分析比赛，得出结论，成为一名优秀的经理！ 管理你自己的足球俱乐部！ 创建您的 自己的传奇 与来自以下领域的经理竞争 遍布世界各地 没有作弊和错误&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>网页足球经理游戏里，我个人认为最像Football Manager（FM)和EA FIFA足球经理(EFM)的就是这款”<strong><a href="www.sokker.org" target="_blank" rel="noopener noreferrer">Sokker</a>“</strong></p>
+<p>以全 3D 形式观看比赛！是这个游戏与别的网页足球经理最大的不同。以我玩过的网页足球经理游戏来看，要么有实况比赛画面的数据拉跨节奏拉跨，要么纯数据库游玩，缺少了实况的那种身临其境的代入感。总之Sokker因该是这些网页足球经理里把数据，模拟，实况，融合的最平衡的一款网页游戏了。体验效果基本能达到FM和EFM的感受了。</p>
+<hr>
+<p>官方网站给出的介绍：<br><br></p>
+<h1 class="headline c-s-white t-uppercase fs-18 fs-24@&gt;mobile fw-700 ls-40" style="box-sizing: border-box; font-size: 2.4rem !important; margin: 0px; line-height: 3rem !important; letter-spacing: 0.04em !important; font-weight: 700 !important; text-transform: uppercase !important; color: var(--c-s-white) !important; white-space: pre-wrap; font-family: 'Nunito Sans', Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; text-align: center; text-indent: 0px; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #e7eaf1; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Sokker <br>ONLINE FOOTBALL MANAGER</h1>
+<p>与 SOKKER 合作一起探索足球世界。<br>带领你的球队一举成名！<br>有很多机会，因此可以通过各种方式取得成功。展示你的战术技能，证实自己是一名合格或者优秀的足球经理，发现有潜力的球员并发展成为真正的超级球员。让你的俱乐部成为豪门 - 也许有一天你甚至会带领国家队走向世界杯！<br>独特的战术体系！<br>计划你的球员在球场上的行为，并超越你的对手。多亏了独特的战术向导，你可以对球队的表现产生比任何其他经理更大的影响。<br>球员发展！<br>通过雇用教练组和照顾俱乐部设施来培养您的球员。决定训练，发现球员的潜力，并创造真正的超级球员。谁知道呢，也许他们中的一个人甚至会在国家队首次亮相。<br>俱乐部基础设施！<br>扩大您的俱乐部，照顾其设施。建造你梦想中的体育场，投资青年学院，并确定它的方向。但是，请记住睿智地选择优先级，考虑不周的成本可能是一个真正的负担。<br><br><strong><span style="color: #843fa1;">以全 3D 形式观看比赛！</span></strong><br><br>看看你的想法和战术是否通过独特的比赛可视化给你带来了结果。没有其他足球经理能像你一样对球员在球场上的行为产生如此大的影响。分析比赛，得出结论，成为一名优秀的经理！</p>
+<p>管理你自己的足球俱乐部！<br>创建您的<br>自己的传奇<br><br>与来自以下领域的经理竞争<br>遍布世界各地<br><br>没有作弊和错误<br>公平竞争<br><br>花尽可能多的时间<br>如你所愿</p>
+<hr>
+<p><br>㋡ <strong>传送门</strong>：<br>—————————————————</p>
+<p>Sokker：<a href="https://sokker.org/" target="_blank" rel="noopener noreferrer">https://sokker.org/</a></p>
+<p>—————————————————</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
