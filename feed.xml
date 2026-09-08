@@ -3,12 +3,155 @@
     <title>z-professornotebook.github.io</title>
     <link href="https://z-professornotebook.github.io/feed.xml" rel="self" />
     <link href="https://z-professornotebook.github.io" />
-    <updated>2026-08-16T20:17:20+08:00</updated>
+    <updated>2026-09-08T20:41:36+08:00</updated>
     <author>
         <name>ZPROFESSOR</name>
     </author>
     <id>https://z-professornotebook.github.io</id>
 
+    <entry>
+        <title>CPU满载优化解决两件套CPUDoc与Win11Debloat</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professornotebook.github.io/githubbloger63.html"/>
+        <id>https://z-professornotebook.github.io/githubbloger63.html</id>
+            <category term="应用与程序"/>
+
+        <updated>2026-08-17T19:18:15+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    CPUDoc CPUDoc是一款开源、免费、轻量级的CPU性能优化工具，适用于AMD Ryzen 3000/5000/7000系列和Intel 12/13代CPU。 主要功能包括： ThreadBooster：智能线程调度引擎，可动态管理CPU线程分配，提高多核利用率。 SysSetHack (SSH)：优化超线程状态，实现低延迟与多核性能兼顾。 PowerSaverActive (PSA)：动态电源管理，根据负载实时调节频率和电压，降低功耗和温度。 NumaZero (N0)：手动核心绑定，针对多CCD架构优化性能。安装简单，只需.NET Core 6.0运行环境，运行CPUDoc.exe即可使用，适合游戏性能优化、功耗控制和系统稳定性提升。 使用方法介绍： 运行CPUDoc.exe主程序 右键系统托盘图标选择【Create Auto-start task】 返回主界面启动【Start ThreadBooster】 本软件使用相当安全，而且不需要复杂的配置。几乎所有设置都是自动完成的，无需用户干预。这才是我们的目标，安装了便可以自动运行，不需要用户设置，用户唯一需要做的就是设定为开机自动启动。 Github项目下载地址：https://github.com/mann1x/CPUDoc/releases 本站提供网盘备份下载：【Bestfile.io】及 【Gofile.io】 Win11Debloat Win11Debloat是一款开源PowerShell脚本工具，专注于Windows 11系统精简。 一键卸载预装软件，释放磁盘空间。&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>CPUDoc</strong><br><br>CPUDoc是一款开源、免费、轻量级的CPU性能优化工具，适用于AMD Ryzen 3000/5000/7000系列和Intel 12/13代CPU。</p>
+<p>主要功能包括：<br>ThreadBooster：智能线程调度引擎，可动态管理CPU线程分配，提高多核利用率。<br>SysSetHack (SSH)：优化超线程状态，实现低延迟与多核性能兼顾。<br>PowerSaverActive (PSA)：动态电源管理，根据负载实时调节频率和电压，降低功耗和温度。<br>NumaZero (N0)：手动核心绑定，针对多CCD架构优化性能。安装简单，只需.NET Core 6.0运行环境，运行CPUDoc.exe即可使用，适合游戏性能优化、功耗控制和系统稳定性提升。</p>
+<p>使用方法介绍：<br>运行CPUDoc.exe主程序<br>右键系统托盘图标选择【Create Auto-start task】<br>返回主界面启动【Start ThreadBooster】</p>
+<p>本软件使用相当安全，而且不需要复杂的配置。几乎所有设置都是自动完成的，无需用户干预。这才是我们的目标，安装了便可以自动运行，不需要用户设置，用户唯一需要做的就是设定为开机自动启动。</p>
+<p>Github项目下载地址：<a href="https://github.com/mann1x/CPUDoc/releases" target="_blank" rel="noopener noreferrer">https://github.com/mann1x/CPUDoc/releases</a><br>本站提供网盘备份下载：<a href="https://bestfile.io/ei7WrMDhqU37pAb/file" target="_blank" rel="noopener noreferrer">【Bestfile.io】</a>及 <a href="https://gofile.io/d/pnHJwn" target="_blank" rel="noopener noreferrer">【Gofile.io】</a></p>
+<p> </p>
+<p> </p>
+<p><br><strong>Win11Debloat</strong></p>
+<p>Win11Debloat是一款开源PowerShell脚本工具，专注于Windows 11系统精简。<br>一键卸载预装软件，释放磁盘空间。<br>禁用遥测和后台数据收集，减少CPU和内存占用。<br>关闭多余功能，如Bing搜索集成，提高系统响应速度。无需安装，操作简单，适合希望降低系统空闲CPU占用、提升整体流畅度的用户。</p>
+<p>===使用方法==============<br><br>安装PowerShell：<a href="https://apps.microsoft.com/detail/9mz1snwt0n5d?launch=true&amp;mode=full&amp;hl=zh-CN&amp;gl=CN&amp;ocid=bingwebsearch" target="_blank" rel="noopener noreferrer">PowerShell - Windows官方下载 | 微软应用商店 | Microsoft Store</a><br><br>然后，在PowerShell 运行以下代码：(复制粘贴然后回车）</p>
+<pre class="language-html"><code>irm https://github.com/scavin/Win11Debloat/releases/download/2026.06.24/Get_CN.ps1 | iex</code></pre>
+<div class="highlight highlight-source-powershell notranslate position-relative overflow-auto" dir="auto">
+<div class="zeroclipboard-container"><span style="font-size: inherit;">等待脚本自动下载并启动 Win11Debloat。<br><br>一般用户只要选择【★默认模式】便可，如果有自己的需求再选择【自定义设置】</span></div>
+</div>
+<p>仔细阅读并按照屏幕上的说明操作。</p>
+<p dir="auto">此方式支持命令行参数来自定义脚本行为。更多信息请点击<a href="https://github.com/Raphire/Win11Debloat/wiki/Command%E2%80%90line-Interface#parameters">此处</a>。</p>
+<p dir="auto"><br>===功能与改进==============<br><br>更新样式以更好地符合 Windows Fluent Design 设计规范<br>新增组策略域策略覆盖警告提示<br>新增 WhatIf 支持，可在执行前预览脚本更改<br>现在会禁用 Microsoft\Windows 下的遥测相关计划任务<br>新增对加载、保存和执行未定义功能的防护<br>简化窗口管理并更新最小窗口尺寸<br>开始菜单备份/还原现在使用带时间戳的文件名，支持多次备份<br>清理功能执行逻辑以提高可读性<br>改进应用移除方法，移除旧版命令行移除方式<br>移除 CustomAppsList 文件格式支持，包括 -RemoveAppsCustom 和 -RunAppsListGenerator 参数<br>命令行应用移除现在使用新方法<br>停止支持已下架应用：Fitbit、Shazam、Twitter、Viber、Wunderlist、XING 和 Plex<br>修复 Microsoft Copilot 的移除<br>Win11Debloat 是一款可以一键卸载 90+ 款 Windows 预装软件的小工具，除了节省空间，还能带来巨大的性能提升。<br><br><br></p>
+<p>GitHub项目仓库地址<br>原版：<a href="https://github.com/Raphire/Win11Debloat" target="_blank" rel="noopener noreferrer">https://github.com/Raphire/Win11Debloat</a><br>汉化：<a href="https://github.com/scavin/Win11Debloat" target="_blank" rel="noopener noreferrer">https://github.com/scavin/Win11Debloat</a></p>
+<p> </p>
+<hr>
+<div class="notion-selectable notion-sub_header-block" dir="auto" data-block-id="3c77ff21-a7f8-80e2-a8aa-eb80dbe08778">
+<div>
+<div>
+<div>
+<h3 role="textbox" spellcheck="true" data-content-editable-leaf="true" aria-multiline="true" aria-roledescription="标题级别 2"> </h3>
+<h3 id=":r9j:" class="content-editable-leaf-rtl notranslate" role="textbox" spellcheck="true" data-content-editable-leaf="true" aria-multiline="true" aria-roledescription="标题级别 2"><span class="notion-enable-hover" data-token-index="0">使用建议</span></h3>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="notion-selectable notion-numbered_list-block" dir="auto" data-block-id="3c77ff21-a7f8-8016-b682-d4f2889577b2">
+<div>
+<div class="x78zum5">
+<div id=":r9k:" class="content-editable-leaf-rtl notranslate" role="textbox" spellcheck="true" data-content-editable-leaf="true" aria-multiline="true" aria-roledescription="项目 1"><span class="notion-enable-hover" data-token-index="0">游戏玩家</span>：优先使用CPUDoc，可提升帧率并降低功耗。</div>
+<div><span class="notion-enable-hover" style="font-size: inherit;" data-token-index="0">系统精简和后台优化</span><span style="font-size: inherit;">：Win11Debloat适合清理Win11冗余服务和预装软件。</span></div>
+<div> </div>
+<div> </div>
+<div> </div>
+</div>
+</div>
+</div>
+<div class="notion-selectable notion-numbered_list-block" dir="auto" data-block-id="3c77ff21-a7f8-802a-86c8-e451ed5cc53c">
+<div class="x78zum5">
+<div> </div>
+</div>
+</div>
+<div class="notion-selectable notion-numbered_list-block" dir="auto" data-block-id="3c77ff21-a7f8-8089-b2c2-d7a6fcfbef28">
+<div class="notion-list-item-box-left" data-content-editable-void="true" data-text-edit-side="start"> </div>
+<div>
+<div class="x78zum5">
+<div id=":r9m:" class="content-editable-leaf-rtl notranslate" role="textbox" spellcheck="true" data-content-editable-leaf="true" aria-multiline="true" aria-roledescription="项目 3"></div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kindle 全版本通用越狱方法</title>
+        <author>
+            <name>ZPROFESSOR</name>
+        </author>
+        <link href="https://z-professornotebook.github.io/githubbloger62.html"/>
+        <id>https://z-professornotebook.github.io/githubbloger62.html</id>
+            <category term="免费与开源"/>
+
+        <updated>2026-08-17T19:17:51+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    不限机型！不限固件版本！越狱操作更简单！ 越狱常见问答 越狱后原生系统还能用吗？答：没有任何变化，原生/第三方阅读器任意切换； 会更耗电或拖慢性能吗？答：没有明显变化，甚至可以仅运行第三方阅读器插件，减少内存消耗。 KOReader阅读器运行速度快吗？答：不输原生，功能超多！自定义超强！详见后文。 谁适合越狱 适合的。 书源格式多样的人（如.epub/.cbz/.zip等）。 对PDF文档“重排”功能有刚需的人，尤其是小屏机器。 看书多，需要频繁传输的人。 对原生系统功能不满足的人（希望增加个性化样式/夜间模式/手势操作等） 不适合的： 懒得折腾的人（虽然本次越狱很简单但也可能遇到棘手问题）。 对原生系统可以接受的人，希望原生系统持续更新的人。 在亚马逊购书且未看完的人（因为OKReader各种格式都支持，除了亚马逊的.azw，手下留情？） Kindle 模组维基 欢迎来到Kindle改装维基！ 你一站式的Kindle破解相关信息平台。 https://kindlemodding.org/ 首先打开Kindle进入设置，找到自己设备的固件版本，并且记住版本号。 Kindle内打开浏览器输入以下网址：https://vera.tene7.com/ 进入该网页后选择对应自己设备的型号以及固件版本。 接着分别点击页面带Download开头的下载文件。（Download Font 和 Download Véra ) 然后按着顺序安装，（1.Font&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<p>不限机型！不限固件版本！越狱操作更简单！</p>
+<p>越狱常见问答</p>
+<p>越狱后原生系统还能用吗？答：没有任何变化，原生/第三方阅读器任意切换；<br>会更耗电或拖慢性能吗？答：没有明显变化，甚至可以仅运行第三方阅读器插件，减少内存消耗。<br>KOReader阅读器运行速度快吗？答：不输原生，功能超多！自定义超强！详见后文。</p>
+<p>谁适合越狱<br>适合的。<br>书源格式多样的人（如.epub/.cbz/.zip等）。<br>对PDF文档“重排”功能有刚需的人，尤其是小屏机器。<br>看书多，需要频繁传输的人。<br>对原生系统功能不满足的人（希望增加个性化样式/夜间模式/手势操作等）</p>
+<p>不适合的：<br>懒得折腾的人（虽然本次越狱很简单但也可能遇到棘手问题）。<br>对原生系统可以接受的人，希望原生系统持续更新的人。<br>在亚马逊购书且未看完的人（因为OKReader各种格式都支持，除了亚马逊的.azw，手下留情？）</p>
+<p> </p>
+<hr>
+<p> </p>
+<p>Kindle 模组维基<br>欢迎来到Kindle改装维基！<br>你一站式的Kindle破解相关信息平台。</p>
+<p><a href="https://kindlemodding.org/" target="_blank" rel="noopener noreferrer">https://kindlemodding.org/</a></p>
+<p> </p>
+<p> </p>
+<hr>
+<h2> </h2>
+<h2>Kindle全版本越狱的方法<br><br></h2>
+<p>首先打开Kindle进入设置，找到自己设备的固件版本，并且记住版本号。<br><br>Kindle内打开浏览器输入以下网址：<a href="https://vera.tene7.com/" target="_blank" rel="noopener noreferrer">https://vera.tene7.com/</a></p>
+<p>进入该网页后选择对应自己设备的型号以及固件版本。</p>
+<p>接着分别点击页面带Download开头的下载文件。（Download Font 和 Download Véra )</p>
+<p>然后按着顺序安装，（1.Font 2.Véra)</p>
+<p>1.Font</p>
+<div>点击Font Calibration Book。</div>
+<div>设置Aa为Bookearly字体，0粗细，最大字号。</div>
+<div>设置行距为中等，最后保存当前主题。（重点为调行间距）</div>
+<div>左上角点击三次回到主界面。</div>
+<div>2.Véra</div>
+<div>打开Vera越狱书。（如果出现空白状况，请多尝试打开几次）</div>
+<div>画面重启并且回到主界面。</div>
+<div> </div>
+<div>Véra安装完毕后就越狱成功了，OK！</div>
+<p> </p>
+<p>教学视频观看：<br><br><a href="https://www.toutiao.com/video/7676166944621330490/?app=news_article&amp;category_new=__all__&amp;module_name=iOS_tt_url&amp;req_id_new=202608211702282DCAD7EA678AEC9801FF&amp;share_did=MS4wLjACAAAAdGJCm6zWeIBuTijbJdYsYJ0CWuar5NiMap-CUVe8ioc&amp;share_token=0240A15D-8297-41B8-80CD-C94FCDB7AEB4&amp;timestamp=1787302950&amp;tt_from=copy_link&amp;upstream_biz=iOS_url&amp;utm_campaign=client_share&amp;utm_medium=toutiao_ios&amp;utm_source=copy_link&amp;source=m_redirect" target="_blank" rel="noopener noreferrer">水中捕灵活的鱼虾: Kinlde全设备越狱教程（适用5.19.6及以下）等了好久终于等到今天~#Kindle# #教程# #数码科技# #科技数码#</a><br><br><a href="https://www.bilibili.com/video/BV1aqgV6DEWK/" target="_blank" rel="noopener noreferrer">kindle全系列越狱教程，新版本也可以越狱了，越狱之后可以安装微信阅读，番茄，蓝牙翻页，觅阅等各种插件_哔哩哔哩_bilibili</a></p>
+<p> </p>
+<p> </p>
+<hr>
+<p> </p>
+<p>2025 Kindle越狱的方法：</p>
+<p data-pid="FiBweVfd">图文版：<a href="https://bookfere.com/post/1145.html" target="_blank" rel="noopener noreferrer">https://bookfere.com/post/1145.html</a><br><br>视频版地址：<a href="https://www.bilibili.com/video/BV1TarSY8EBq" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1TarSY8EBq</a><br><br>越狱成功后还需要安装插件，除了必装的KOReader外，强烈推荐另外两个插件：<br><br>1、Rename OTA binaries<br><br>禁止kindle自动升级，以免影响越狱后的使用，详见：<a href="https://bookfere.com/post/472.html" target="_blank" rel="noopener noreferrer">https://bookfere.com/post/472.html</a><br><br>2、无线文件管理File Browser（HTTP File Server）<br><br>双向传书传文件、传字体、字典，还可以安装其他插件，完全替代USB连接电脑。<br><br>Kindle可以无线传输了<br>ngxson版本下载地址：<a href="https://github.com/ngxson/hobby-kindle-http-file-server/releases" target="_blank" rel="noopener noreferrer">https://github.com/ngxson/hobby-kindle-http-file-server/releases</a> （国外网站不是很稳多刷几次）<br><br>安装方法：<a href="https://bookfere.com/post/823.html" target="_blank" rel="noopener noreferrer">https://bookfere.com/post/823.html</a><br><br>本内容来源于@什么值得买APP，观点仅代表作者本人 ｜作者：佛系老司机</p>
+<p data-pid="FiBweVfd"> </p>
+<hr>
+<p data-pid="FiBweVfd"> </p>
+<p data-pid="FiBweVfd">相关参考资料：</p>
+<p>Véra是越狱作品，由Ava和sparklerfish于2026年8月10日发布。<a href="https://kindlemodding.org/jailbreaking/Vera/" target="_blank" rel="noopener noreferrer">KindleModding - Véra</a><br>（以上网址只支持在Kindle下浏览和使用）</p>
+<p>Kindle Véra 越狱中文教程：<br><a href="https://zrui.tech/posts/kindle-vera-jailbreak-guide/" target="_blank" rel="noopener noreferrer">https://zrui.tech/posts/kindle-vera-jailbreak-guide/</a></p>
+<p>Kindle 通用越狱教程：适用固件版本 5.12.2.2~5.14.2 – 书伴<br><a href="https://bookfere.com/post/970.html" target="_blank" rel="noopener noreferrer">https://bookfere.com/post/970.html</a><br>Véra 越狱教程：适用于固件版本 – 书伴<br><a href="https://bookfere.com/post/1193.html" target="_blank" rel="noopener noreferrer">https://bookfere.com/post/1193.html</a></p>
+<p> </p>
+<hr>
+<p>本内容持续编辑中，20260816。</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>《闪电战1.中文全集典藏版》游戏磁力下载</title>
         <author>
@@ -138,12 +281,13 @@ magnet:?xt=urn:btih:59546f06b5d9b1b20aa5854db4a584b75584d629</code></pre>
         <updated>2026-08-08T15:46:37+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    首先，只教搬砖方法却不说变现渠道的人，都是骗子耍流氓不要信！ 本文就给各位推荐一下靠谱的网游交易平台，首选官方交易，切勿私下交易。 游戏搬砖靠谱出货平台： 【首选也是唯一推选】藏宝阁_游戏交易平台 01：藏宝阁（网易） 综合指数：★★★★★ 网址：https://cbg.163.com/ 藏宝阁是网易官方唯一直营的游戏交易平台，专门服务于梦幻西游、逆水寒、大话西游、倩女幽魂等全系网易游戏。 优点和缺点都比较明了，对于玩的是网易游戏的玩家来说比较友好，但是如果不是网易系列的搬砖游戏而且游戏厂商也没有交易系统的话只能通过DD373和必集客这类平台进行交易出货。 02：必集客（搬砖社群 + 一手收货） 综合指数：★★★★★ 网址：https://www.bijike.com/ 必集客是近几年游戏搬砖圈子口碑非常好的优质出货渠道，它主打搬砖社群对接+一手直收的模式。 玩家可以直接对接各大全职工作室和长期稳定收货的大客户，交易价格透明公道，无任何隐形扣费和平台套路，能够最大程度保留搬砖收益，大幅提升纯利润。唯一的不足是新手刚接触需要简单熟悉对接规则，熟练操作后不管是出货价格还是交易自由度，都远超多数传统平台，是目前游戏搬砖高性价比出货的首选之一。 03：DD373（嘟嘟） 综合指数：★★★★★ 网址：https://www.dd373.com/ DD373也就是搬砖玩家常说的嘟嘟平台，是目前全网通用性和实用性拉满的综合游戏交易平台。 这款平台最大的优势就是覆盖面极广，基本涵盖了市面上大多数的端游和手游搬砖项目，不管是热门主流游戏，还是小众冷门搬砖游戏都有对应的收货订单和交易板块。 唯一的短板就是平台会收取固定交易手续费，长期高频出货会产生一定成本，但对比平台极致的流通性和稳定性，这点成本对于我们搬砖玩家来说完全可以接受。 04：聚宝斋（问道） 综合指数：★★★ 网址：https://jbz.boyuemobile.com/ 聚宝斋是问道端游和手游专属的官方交易平台，针对性极强，是问道搬砖玩家的核心安全出货渠道。缺点也很明显，对于其他游戏并不能进行交易，出货非常局限。 05：万宝楼（剑网三） 综合指数：★★★ 网址：https://www.seasunwbl.com/ 万宝路是剑网三专属的垂直类游戏交易平台，深耕剑网三交易生态多年圈内老搬砖玩家认可度较高，专门适配剑网三端游的搬砖出货。&hellip;
+                    首先，只教搬砖方法却不说变现渠道的人，都是骗子耍流氓不要信！ 本文就给各位推荐一下靠谱的网游交易平台，首选官方交易，切勿私下交易。 游戏搬砖靠谱出货平台： 【首选也是唯一推选】藏宝阁_游戏交易平台 01：藏宝阁（网易） 综合指数：★★★★★ 网址：https://cbg.163.com/ 藏宝阁是网易官方唯一直营的游戏交易平台，专门服务于梦幻西游、逆水寒、大话西游、倩女幽魂等全系网易游戏。 优点和缺点都比较明了，对于玩的是网易游戏的玩家来说比较友好，但是如果不是网易系列的搬砖游戏而且游戏厂商也没有交易系统的话只能通过DD373和必集客这类平台进行交易出货。 02：DD373（嘟嘟） 综合指数：★★★★★ 网址：https://www.dd373.com/ DD373也就是搬砖玩家常说的嘟嘟平台，是目前全网通用性和实用性拉满的综合游戏交易平台。 这款平台最大的优势就是覆盖面极广，基本涵盖了市面上大多数的端游和手游搬砖项目，不管是热门主流游戏，还是小众冷门搬砖游戏都有对应的收货订单和交易板块。 唯一的短板就是平台会收取固定交易手续费，长期高频出货会产生一定成本，但对比平台极致的流通性和稳定性，这点成本对于我们搬砖玩家来说完全可以接受。 03：聚宝斋（问道） 综合指数：★★★ 网址：https://jbz.boyuemobile.com/ 聚宝斋是问道端游和手游专属的官方交易平台，针对性极强，是问道搬砖玩家的核心安全出货渠道。缺点也很明显，对于其他游戏并不能进行交易，出货非常局限。 04：万宝楼（剑网三） 综合指数：★★★ 网址：https://www.seasunwbl.com/ 万宝路是剑网三专属的垂直类游戏交易平台，深耕剑网三交易生态多年圈内老搬砖玩家认可度较高，专门适配剑网三端游的搬砖出货。 虽然万宝路是剑网三的垂直出货交易平台，但是我身边一些搬砖的玩家为了省事，往往会和其他游戏一样DD373和必集客这类平台进行交易出货。 05：交易猫（阿里） 综合指数：★★★★ 网址：https://www.jiaoyimao.com/ 交易猫是阿里旗下的正规手游交易平台，也是目前手游搬砖领域的顶流出货渠道。 手游搬砖出货平台里面能和交易猫一较高下的并不多，必集客算是一个。但是交易猫的账号类交易手续费偏高，单纯的游戏币和材料出货性价比一般，但大额账号出货的成本相对较高。 06：5173（老牌）&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>首先，只教搬砖方法却不说变现渠道的人，都是骗子耍流氓不要信！</p>
+                <p> </p>
+<p>首先，只教搬砖方法却不说变现渠道的人，都是骗子耍流氓不要信！</p>
 <p>本文就给各位推荐一下靠谱的网游交易平台，首选官方交易，切勿私下交易。</p>
 <p> </p>
 <p> </p>
@@ -154,8 +298,8 @@ magnet:?xt=urn:btih:59546f06b5d9b1b20aa5854db4a584b75584d629</code></pre>
 <p> </p>
 <p>01：藏宝阁（网易）<br>综合指数：★★★★★<br>网址：<a href="https://cbg.163.com/" target="_blank" rel="noopener noreferrer">https://cbg.163.com/</a><br><br>藏宝阁是网易官方唯一直营的游戏交易平台，专门服务于梦幻西游、逆水寒、大话西游、倩女幽魂等全系网易游戏。</p>
 <p>优点和缺点都比较明了，对于玩的是网易游戏的玩家来说比较友好，但是如果不是网易系列的搬砖游戏而且游戏厂商也没有交易系统<svg width="10px" height="10px" viewbox="0 0 16 16" class="ZDI ZDI--FourPointedStar16 css-1dvsrp" fill="currentColor"><path d="m5.068 9.267-3.08-.77a.512.512 0 0 1 0-.994l3.08-.77a2.289 2.289 0 0 0 1.665-1.665l.77-3.08a.512.512 0 0 1 .994 0l.77 3.08c.205.82.845 1.46 1.665 1.665l3.08.77a.512.512 0 0 1 0 .994l-3.08.77a2.29 2.29 0 0 0-1.665 1.665l-.77 3.08a.512.512 0 0 1-.994 0l-.77-3.08a2.289 2.289 0 0 0-1.665-1.665Z"></path></svg>的话只能通过DD373和必集客这类平台进行交易出货。</p>
-<p><br>02：必集客（搬砖社群 + 一手收货）<br>综合指数：★★★★★<br>网址：<a href="https://www.bijike.com/" target="_blank" rel="noopener noreferrer">https://www.bijike.com/</a><br><br>必集客是近几年游戏搬砖圈子口碑非常好的优质出货渠道，它主打搬砖社群对接+一手直收的模式。<br>玩家可以直接对接各大全职工作室和长期稳定收货的大客户，交易价格透明公道，无任何隐形扣费和平台套路，能够最大程度保留搬砖收益，大幅提升纯利润。唯一的不足是新手刚接触需要简单熟悉对接规则，熟练操作后不管是出货价格还是交易自由度，都远超多数传统平台，是目前游戏搬砖高性价比出货的首选之一。<br><br>03：DD373（嘟嘟）<br>综合指数：★★★★★<br>网址：<a href="https://www.dd373.com/" target="_blank" rel="noopener noreferrer">https://www.dd373.com/</a><br><br>DD373也就是搬砖玩家常说的嘟嘟平台，是目前全网通用性和实用性拉满的综合游戏交易平台。<br>这款平台最大的优势就是覆盖面极广，基本涵盖了市面上大多数的端游和手游搬砖项目，不管是热门主流游戏，还是小众冷门搬砖游戏都有对应的收货订单和交易板块。<br>唯一的短板就是平台会收取固定交易手续费，长期高频出货会产生一定成本，但对比平台极致的流通性和稳定性，这点成本对于我们搬砖玩家来说完全可以接受。<br><br>04：聚宝斋（问道）<br>综合指数：★★★<br>网址：<a href="https://jbz.boyuemobile.com/" target="_blank" rel="noopener noreferrer">https://jbz.boyuemobile.com/</a></p>
-<p><br>聚宝斋是问道端游和手游专属的官方交易平台，针对性极强，是问道搬砖玩家的核心安全出货渠道。缺点也很明显，对于其他游戏并不能进行交易，出货非常局限。<br><br><br>05：万宝楼（剑网三）<br>综合指数：★★★<br>网址：<a href="https://www.seasunwbl.com/" target="_blank" rel="noopener noreferrer">https://www.seasunwbl.com/</a><br><br>万宝路是剑网三专属的垂直类游戏交易平台，深耕剑网三交易生态多年圈内老搬砖玩家认可度较高，专门适配剑网三端游的搬砖出货。<br>虽然万宝路是剑网三的垂直出货交易平台，但是我身边一些搬砖的玩家为了省事，往往会和其他游戏一样DD373和必集客这类平台进行交易出货。<br><br>06：交易猫（阿里）<br>综合指数：★★★★<br>网址：<a href="https://www.jiaoyimao.com/" target="_blank" rel="noopener noreferrer">https://www.jiaoyimao.com/</a><br><br>交易猫是阿里旗下的正规手游交易平台，也是目前手游搬砖领域的顶流出货渠道。<br>手游搬砖出货平台里面能和交易猫一较高下的并不多，必集客算是一个。但是交易猫的账号类交易手续费偏高，单纯的游戏币和材料出货性价比一般，但大额账号出货的成本相对较高。<br><br><br>07：5173（老牌）<br>综合指数：★★★★<br>网址：<a href="https://www.5173.com/" target="_blank" rel="noopener noreferrer">https://www.5173.com/</a><br><br>5173是国内最早的老牌游戏交易平台，口碑扎实游戏搬砖用户基数庞大，在端游搬砖交易领域拥有极高的认可度。<br>5173和交易猫的缺点正好相反，对于游戏搬砖综合类型上来说太侧重端游，而且整体成交流通速度不如像DD和必集客这类新兴平台。<br><br>08：寻宝天行（完美）<br>综合指数：★★★<br>网址：<a href="http://www.xunbao178.com/" target="_blank" rel="noopener noreferrer">http://www.xunbao178.com/</a><br><br>寻宝天行是完美世界官方专属交易平台，专门服务于诛仙、完美世界、神雕侠侣等完美旗下游戏。<br>和网易的藏宝阁一样平台短板十分突出仅支持完美旗下游戏，除专属游戏外没有任何使用价值，综合通用性极差，只能满足小众专属玩家的游戏搬砖出货需求。<br><br>09：畅易阁（畅游）<br>综合指数：★★<br>网址：<a href="http://cyg.changyou.com/" target="_blank" rel="noopener noreferrer">http://cyg.changyou.com/</a><br><br>畅易阁是畅游官方直营交易平台，主打天龙八部全系游戏交易。<br><br><br>10：咸鱼<br>综合指数：★★★★<br>网址：<a href="https://www.goofish.com/" target="_blank" rel="noopener noreferrer">https://www.goofish.com/</a><br><br>闲鱼是目前游戏交易自由度最高的个人闲置交易平台，虽然不是专门的游戏交易平台但是咸鱼凭借强大的日活还是吸引了很多游戏搬砖出货的玩家。<br>咸鱼没有专属的担保仲裁规则，全靠双方自主交易，容易遇到到手刀和恶意退款，没有专业的找回包赔服务风控完全靠自己把控。如果担心安全性的话大家可以考虑DD和必集客，交易猫这类游戏搬砖出货平台。<br><br><br>以上就是我个人了解的10个正规游戏搬砖出货平台，基本上可以搬砖的游戏我都给大家说到了，或许也还有但是我现在一时半会想不起来了。<br><br>大家可以根据自身需求去相应的游戏平台进行了解，希望对大家有所帮助！</p>
+<p><br><br><br>02：DD373（嘟嘟）<br>综合指数：★★★★★<br>网址：<a href="https://www.dd373.com/" target="_blank" rel="noopener noreferrer">https://www.dd373.com/</a><br><br>DD373也就是搬砖玩家常说的嘟嘟平台，是目前全网通用性和实用性拉满的综合游戏交易平台。<br>这款平台最大的优势就是覆盖面极广，基本涵盖了市面上大多数的端游和手游搬砖项目，不管是热门主流游戏，还是小众冷门搬砖游戏都有对应的收货订单和交易板块。<br>唯一的短板就是平台会收取固定交易手续费，长期高频出货会产生一定成本，但对比平台极致的流通性和稳定性，这点成本对于我们搬砖玩家来说完全可以接受。<br><br>03：聚宝斋（问道）<br>综合指数：★★★<br>网址：<a href="https://jbz.boyuemobile.com/" target="_blank" rel="noopener noreferrer">https://jbz.boyuemobile.com/</a></p>
+<p><br>聚宝斋是问道端游和手游专属的官方交易平台，针对性极强，是问道搬砖玩家的核心安全出货渠道。缺点也很明显，对于其他游戏并不能进行交易，出货非常局限。<br><br><br>04：万宝楼（剑网三）<br>综合指数：★★★<br>网址：<a href="https://www.seasunwbl.com/" target="_blank" rel="noopener noreferrer">https://www.seasunwbl.com/</a><br><br>万宝路是剑网三专属的垂直类游戏交易平台，深耕剑网三交易生态多年圈内老搬砖玩家认可度较高，专门适配剑网三端游的搬砖出货。<br>虽然万宝路是剑网三的垂直出货交易平台，但是我身边一些搬砖的玩家为了省事，往往会和其他游戏一样DD373和必集客这类平台进行交易出货。<br><br>05：交易猫（阿里）<br>综合指数：★★★★<br>网址：<a href="https://www.jiaoyimao.com/" target="_blank" rel="noopener noreferrer">https://www.jiaoyimao.com/</a><br><br>交易猫是阿里旗下的正规手游交易平台，也是目前手游搬砖领域的顶流出货渠道。<br>手游搬砖出货平台里面能和交易猫一较高下的并不多，必集客算是一个。但是交易猫的账号类交易手续费偏高，单纯的游戏币和材料出货性价比一般，但大额账号出货的成本相对较高。<br><br><br>06：5173（老牌）<br>综合指数：★★★★<br>网址：<a href="https://www.5173.com/" target="_blank" rel="noopener noreferrer">https://www.5173.com/</a><br><br>5173是国内最早的老牌游戏交易平台，口碑扎实游戏搬砖用户基数庞大，在端游搬砖交易领域拥有极高的认可度。<br>5173和交易猫的缺点正好相反，对于游戏搬砖综合类型上来说太侧重端游，而且整体成交流通速度不如像DD和必集客这类新兴平台。<br><br>07：寻宝天行（完美）<br>综合指数：★★★<br>网址：<a href="http://www.xunbao178.com/" target="_blank" rel="noopener noreferrer">http://www.xunbao178.com/</a><br><br>寻宝天行是完美世界官方专属交易平台，专门服务于诛仙、完美世界、神雕侠侣等完美旗下游戏。<br>和网易的藏宝阁一样平台短板十分突出仅支持完美旗下游戏，除专属游戏外没有任何使用价值，综合通用性极差，只能满足小众专属玩家的游戏搬砖出货需求。<br><br>08：畅易阁（畅游）<br>综合指数：★★<br>网址：<a href="http://cyg.changyou.com/" target="_blank" rel="noopener noreferrer">http://cyg.changyou.com/</a><br><br>畅易阁是畅游官方直营交易平台，主打天龙八部全系游戏交易。<br><br><br>9：咸鱼<br>综合指数：★★★★<br>网址：<a href="https://www.goofish.com/" target="_blank" rel="noopener noreferrer">https://www.goofish.com/</a><br><br>闲鱼是目前游戏交易自由度最高的个人闲置交易平台，虽然不是专门的游戏交易平台但是咸鱼凭借强大的日活还是吸引了很多游戏搬砖出货的玩家。<br>咸鱼没有专属的担保仲裁规则，全靠双方自主交易，容易遇到到手刀和恶意退款，没有专业的找回包赔服务风控完全靠自己把控。如果担心安全性的话大家可以考虑DD和必集客，交易猫这类游戏搬砖出货平台。<br><br><br>以上就是我个人了解的10个正规游戏搬砖出货平台，基本上可以搬砖的游戏我都给大家说到了，或许也还有但是我现在一时半会想不起来了。<br><br>大家可以根据自身需求去相应的游戏平台进行了解，希望对大家有所帮助！</p>
 <p> </p>
 <p>本文源引地址：<a href="https://zhuanlan.zhihu.com/p/2043617039747650407" target="_blank" rel="noopener noreferrer">游戏搬砖在哪出货？2026年游戏搬砖靠谱出货平台：9 个游戏搬砖正规出货平台实测推荐 - 知乎</a></p>
 <p> </p>
@@ -231,7 +375,7 @@ magnet:?xt=urn:btih:b1c18a21d8afceb36cf22eb8bb630c06f3dad22b&amp;dn=Cyberpunk_20
         <updated>2026-08-08T15:46:04+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    本人一直热衷于收听广播电台，但国内广播节目在《飞鱼秀》之后便没了接棒者，而我爱听广播的喜好，就是从收听台湾电台开始的，到现在我当年听的节目中广流行网《娱乐E世代》依然在播出，我特别喜欢台湾的谈话类节目，不但可以学习到知识，还可感受那种文艺气质。 最近我在搜索能在手机使用的网络广播电台APP的时候，发现了这款很不错的应用，特地拿来与各位分享，而且希望因为我们的使用，能让作者继续维护这款我个人认为蛮不错的APP。 “台湾收音机、台湾电台”可录音、可当闹钟、睡眠定时（Android） 手机可当收音机已经是众所皆知的事，目前也有很多不错的网络收音机 App 可以下载使用，若你不喜欢太复杂或花俏的功能界面，或许可以考虑"台湾收音机、台湾电台"这款程式。 其将台湾的电台分为十一种类型，也包含各大专院校设置的电台频道，常听的电台可加入我的最爱方便日后收听，虽然取名为"台湾收音机、台湾电台"但实际上是支援多国频道的，除了台湾之外还包含了日本、中国、香港、澳门、马来西亚、新加坡、泰国、韩国、菲律宾与美国的电台，偶尔想要听听其它语言也没问题，在最爱清单中是支援储存不同国别频道的唷！相当方便。 如果节目内容刚好请到喜欢的偶像或讨论的话题内容是值得保留的，可立即按下录音键，程式就会尽责的帮你将广播内容清楚录制下来。睡前使用可设定"睡眠定时"功能，贴心提供几个常用时间的快速设定按钮，或也可自行手动调整需要的时间长度。 想要早晨也能在喜爱的广播节目中苏醒，就可以使用"闹铃播放"功能，设定好时间、重复天数及播放频道，就能在指定的时间自动开启广播功能，当然这个闹铃功能也可用来帮你定时录下没时间听的广播节目唷！喜欢听广播的朋友，可参考看看。 ▇ 软件小档案 ▇ 软件名称：台湾收音机、台湾电台 软件语言：繁体中文 开发人员：OFF Tech 官方网站：https://ilcode.azurewebsites.net/MobileRadioService/ 本站提供网盘备份下载：【bestfile.io】及 软件性质：免费软件 系统支援：Android 4.0 以上 软件下载： 在 Android 手机中开启 Play 商店，搜寻"台湾电台"即可下载安装，或"按这里"从网页远端安装。 操作画面： 在"全部频道"中可依分类寻找需要的电台，或也可以按上方的"放大镜"输入关键字来快速搜寻。找到喜欢的电台后，记得按一下右侧的"星号"加入最爱。&hellip;
+                    本人一直热衷于收听广播电台，但国内广播节目在《飞鱼秀》之后便没了接棒者，而我爱听广播的喜好，就是从收听台湾电台开始的，到现在我当年听的节目中广流行网《娱乐E世代》依然在播出，我特别喜欢台湾的谈话类节目，不但可以学习到知识，还可感受那种文艺气质。 最近我在搜索能在手机使用的网络广播电台APP的时候，发现了这款很不错的应用，特地拿来与各位分享，而且希望因为我们的使用，能让作者继续维护这款我个人认为蛮不错的APP。 “台湾收音机、台湾电台”可录音、可当闹钟、睡眠定时（Android） 手机可当收音机已经是众所皆知的事，目前也有很多不错的网络收音机 App 可以下载使用，若你不喜欢太复杂或花俏的功能界面，或许可以考虑"台湾收音机、台湾电台"这款程式。 其将台湾的电台分为十一种类型，也包含各大专院校设置的电台频道，常听的电台可加入我的最爱方便日后收听，虽然取名为"台湾收音机、台湾电台"但实际上是支援多国频道的，除了台湾之外还包含了日本、中国、香港、澳门、马来西亚、新加坡、泰国、韩国、菲律宾与美国的电台，偶尔想要听听其它语言也没问题，在最爱清单中是支援储存不同国别频道的唷！相当方便。 如果节目内容刚好请到喜欢的偶像或讨论的话题内容是值得保留的，可立即按下录音键，程式就会尽责的帮你将广播内容清楚录制下来。睡前使用可设定"睡眠定时"功能，贴心提供几个常用时间的快速设定按钮，或也可自行手动调整需要的时间长度。 想要早晨也能在喜爱的广播节目中苏醒，就可以使用"闹铃播放"功能，设定好时间、重复天数及播放频道，就能在指定的时间自动开启广播功能，当然这个闹铃功能也可用来帮你定时录下没时间听的广播节目唷！喜欢听广播的朋友，可参考看看。 ▇ 软件小档案 ▇ 软件名称：台湾收音机、台湾电台 软件语言：繁体中文 开发人员：OFF Tech 官方网站：https://ilcode.azurewebsites.net/MobileRadioService/ 本站提供网盘备份下载：【Bestfile.io】及 【Gofile.io】 软件性质：免费软件 系统支援：Android 4.0 以上 软件下载： 在 Android 手机中开启 Play 商店，搜寻"台湾电台"即可下载安装，或"按这里"从网页远端安装。 操作画面：&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -241,7 +385,7 @@ magnet:?xt=urn:btih:b1c18a21d8afceb36cf22eb8bb630c06f3dad22b&amp;dn=Cyberpunk_20
 <p> </p>
 <hr>
 <p>“台湾收音机、台湾电台”可录音、可当闹钟、睡眠定时（Android）</p>
-<p>手机可当收音机已经是众所皆知的事，目前也有很多不错的网络收音机 App 可以下载使用，若你不喜欢太复杂或花俏的功能界面，或许可以考虑"台湾收音机、台湾电台"这款程式。<br><br>其将台湾的电台分为十一种类型，也包含各大专院校设置的电台频道，常听的电台可加入我的最爱方便日后收听，虽然取名为"台湾收音机、台湾电台"但实际上是支援多国频道的，除了台湾之外还包含了日本、中国、香港、澳门、马来西亚、新加坡、泰国、韩国、菲律宾与美国的电台，偶尔想要听听其它语言也没问题，在最爱清单中是支援储存不同国别频道的唷！相当方便。<br><br>如果节目内容刚好请到喜欢的偶像或讨论的话题内容是值得保留的，可立即按下录音键，程式就会尽责的帮你将广播内容清楚录制下来。睡前使用可设定"睡眠定时"功能，贴心提供几个常用时间的快速设定按钮，或也可自行手动调整需要的时间长度。<br><br>想要早晨也能在喜爱的广播节目中苏醒，就可以使用"闹铃播放"功能，设定好时间、重复天数及播放频道，就能在指定的时间自动开启广播功能，当然这个闹铃功能也可用来帮你定时录下没时间听的广播节目唷！喜欢听广播的朋友，可参考看看。<br><br>▇ 软件小档案 ▇<br><br>软件名称：台湾收音机、台湾电台<br>软件语言：繁体中文<br>开发人员：OFF Tech<br>官方网站：<a href="https://ilcode.azurewebsites.net/MobileRadioService/" target="_blank" rel="noopener noreferrer">https://ilcode.azurewebsites.net/MobileRadioService/</a><br>本站提供网盘备份下载：<a href="https://bestfile.io/en/AuaBXLIBFEj8Pxf/file" target="_blank" rel="noopener noreferrer">【bestfile.io】</a>及<br>软件性质：免费软件<br>系统支援：Android 4.0 以上</p>
+<p>手机可当收音机已经是众所皆知的事，目前也有很多不错的网络收音机 App 可以下载使用，若你不喜欢太复杂或花俏的功能界面，或许可以考虑"台湾收音机、台湾电台"这款程式。<br><br>其将台湾的电台分为十一种类型，也包含各大专院校设置的电台频道，常听的电台可加入我的最爱方便日后收听，虽然取名为"台湾收音机、台湾电台"但实际上是支援多国频道的，除了台湾之外还包含了日本、中国、香港、澳门、马来西亚、新加坡、泰国、韩国、菲律宾与美国的电台，偶尔想要听听其它语言也没问题，在最爱清单中是支援储存不同国别频道的唷！相当方便。<br><br>如果节目内容刚好请到喜欢的偶像或讨论的话题内容是值得保留的，可立即按下录音键，程式就会尽责的帮你将广播内容清楚录制下来。睡前使用可设定"睡眠定时"功能，贴心提供几个常用时间的快速设定按钮，或也可自行手动调整需要的时间长度。<br><br>想要早晨也能在喜爱的广播节目中苏醒，就可以使用"闹铃播放"功能，设定好时间、重复天数及播放频道，就能在指定的时间自动开启广播功能，当然这个闹铃功能也可用来帮你定时录下没时间听的广播节目唷！喜欢听广播的朋友，可参考看看。<br><br>▇ 软件小档案 ▇<br><br>软件名称：台湾收音机、台湾电台<br>软件语言：繁体中文<br>开发人员：OFF Tech<br>官方网站：<a href="https://ilcode.azurewebsites.net/MobileRadioService/" target="_blank" rel="noopener noreferrer">https://ilcode.azurewebsites.net/MobileRadioService/</a><br>本站提供网盘备份下载：<a href="https://bestfile.io/CNpYmrBQrm5ULmW/file" target="_blank" rel="noopener noreferrer">【Bestfile.io】</a>及 <a href="https://gofile.io/d/pnHJwn" target="_blank" rel="noopener noreferrer">【Gofile.io】</a><br>软件性质：免费软件<br>系统支援：Android 4.0 以上</p>
 <p>软件下载：<br>在 Android 手机中开启 Play 商店，搜寻"台湾电台"即可下载安装，或"按这里"从网页远端安装。<br>操作画面：<br>在"全部频道"中可依分类寻找需要的电台，或也可以按上方的"放大镜"输入关键字来快速搜寻。找到喜欢的电台后，记得按一下右侧的"星号"加入最爱。<br><br>之后到"我的最爱"就能快速的播放收听喜欢的电台节目啰！播放时若有需要可由右下角启动"录音"功能，再次点击即可停止录音，所有的录音档都会被放在"录音"清单中，会清楚的标示出日期与时间。<br><br>点击左上角可展开左侧选单，"睡眠定时"有提供十个快速睡眠时间钮，若没有合用的，也可由上方滑动设定。<br><br>"闹铃播放"可定时自动播放广播，若是为了录下节目而设定，可勾选"启用录音"功能，设定完后请记得最下方必须勾选为"开启"状态。在"设定"中还有一些功能可依需求来勾选。<br><br>如果想听听别国的电台，可由左侧选单最下方的"电台国别"来切换不同国别唷！</p>
 <p> </p>
 <hr>
@@ -324,117 +468,6 @@ magnet:?xt=urn:btih:b1c18a21d8afceb36cf22eb8bb630c06f3dad22b&amp;dn=Cyberpunk_20
 <p> </p>
 <p>本文持续维护中，20260729。</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Basic English 基本英语 Charles Kay Ogden</title>
-        <author>
-            <name>ZPROFESSOR</name>
-        </author>
-        <link href="https://z-professornotebook.github.io/githubbloger52.html"/>
-        <id>https://z-professornotebook.github.io/githubbloger52.html</id>
-            <category term="免费与开源"/>
-
-        <updated>2026-07-22T15:56:56+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    奥格登基本英语（Basic English）由850个核心词组成，覆盖日常英语约78%-90%的使用频率，是英语入门学习的基础。 掌握这850个核心单词，就能表达标准英语中20,000个词的意思。从16个核心动词出发，用"操作词+方向词"组合构建无限表达。 简介： 百度：基本英语_百度百科 基本英语（Basic English）是一个专有名词，这里Basic除了其本意外，还可以认为是British American Scientific International and Commercial的缩写。它是一种以英语为基础的人造语言，目标是成为国际辅助语言，专供母语非英语的人作为第二语言使用。 查尔斯·凯·奥格登 Charles Kay Ogden (1889.6.1~1957.3.20) 这位英国语言学家和哲学家就是基本英语的发明者。奥格登在1930年出版了一本书，名为《基本英语——规则和语法的一般约定》（Basic English: A General Introduction with Rules and Grammar），第一次详细介绍了这种语言 。奥格登对普通英语进行了简化，通过研究和测试去除了大量意义重复的单词，并且也精简了语法。经过他的处理后，基本英语只保留了850个单词（母语为英语人的词汇量通常为20000~35000）。 基础英语（Basic English，是 British&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p> </p>
-<h1>850个词学会说英语</h1>
-<p>奥格登基本英语（Basic English）由850个核心词组成，覆盖日常英语约78%-90%的使用频率，是英语入门学习的基础。<br>掌握这850个核心单词，就能表达标准英语中20,000个词的意思。从16个核心动词出发，用"操作词+方向词"组合构建无限表达。</p>
-<p><strong>简介：<br></strong>百度：<a href="https://baike.baidu.com/item/%E5%9F%BA%E6%9C%AC%E8%8B%B1%E8%AF%AD/2298076" target="_blank" rel="noopener noreferrer">基本英语_百度百科</a></p>
-<p>基本英语（Basic English）是一个专有名词，这里Basic除了其本意外，还可以认为是British American Scientific International and Commercial的缩写。它是一种以英语为基础的人造语言，目标是成为国际辅助语言，专供母语非英语的人作为第二语言使用。<br><br>查尔斯·凯·奥格登 Charles Kay Ogden (1889.6.1~1957.3.20)<br><br>这位英国语言学家和哲学家就是基本英语的发明者。奥格登在1930年出版了一本书，名为《基本英语——规则和语法的一般约定》（Basic English: A General Introduction with Rules and Grammar），第一次详细介绍了这种语言 。奥格登对普通英语进行了简化，通过研究和测试去除了大量意义重复的单词，并且也精简了语法。经过他的处理后，基本英语只保留了850个单词（母语为英语人的词汇量通常为20000~35000）。</p>
-<p>基础英语（Basic English，是 British American Scientific International and Commercial English 的逆构词）是一种基于标准英语的受控语言，但其词汇和语法均被大幅简化。它由语言学家兼哲学家查尔斯·凯·奥格登所创造，旨在作为一种国际辅助语言，以及作为教授英语为第二语言的辅助工具。它在奥格登1930年的著作《基础英语：基本介绍及规则与语法》中被提出。<br><br>关于基础英语的第一部著作由两位英国人撰写，分别是哈佛大学的伊瓦尔·理查兹和英国剑桥大学的查尔斯·凯·奥格登。基础英语的设计在很大程度上借鉴了奥格登和理查兹在他们1923年的著作《意义的意义》中提出的符号学理论。<br><br>奥格登的基础英语，以及简化英语的概念，在第二次世界大战同盟国胜利后，作为一种实现世界和平的手段，获得了最广泛的宣传。他坚信，世界需要逐渐消除少数民族语言，并尽可能只使用一种语言：英语，无论是其简化形式还是完整形式。<br><br>尽管基础英语未被构建成一个项目，但类似的简化方案也已被设计出来，用于各种国际用途。理查兹在中国推广其在学校中的使用。它影响了用于新闻广播的美国之音“学习英语”节目和简化技术英语的创立，后者是另一种为编写技术手册而设计的、基于英语的受控语言。<br><br>奥格登的基础英语所流传下来的是其基本的850词列表，该列表被用作世界范围（尤其是在亚洲）所教授的英语初学者词汇。</p>
-<p> </p>
-<hr>
-<p><strong>相关：</strong></p>
-<p><a href="https://ogden.munch.love/" target="_blank" rel="noopener noreferrer">Ogden's Basic English · 850 词学习手册</a><br><span style="font-size: inherit;">Github：</span><a href="https://jeetchan.github.io/mini-classroom/basic-english-site/index.html" target="_blank" rel="noopener noreferrer">Ogden Basic English - 850个词，学会说英语</a><br><a href="https://zbenglish.net/sites/basic/basiceng.html" target="_blank" rel="noopener noreferrer">奥格登基础英语</a></p>
-<p> </p>
-<hr>
-<p>分类结构<br>850词按功能和用途可分为以下几类：<br><br>名词（600个）<br>具体事物（200个）：如apple（苹果）、dog（狗）、house（房子）、table（桌子）、car（车）等。<br>抽象/其他（400个）：如time（时间）、work（工作）、language（语言）、value（价值）等 。</p>
-<p>形容词（150个）<br>描述性质、状态、数量等，如good（好）、big（大）、new（新）、first（第一）、long（长）等 。</p>
-<p>功能词（100个）<br>核心动词（18个）：be（是）、do（做）、have（有）、go（去）、come（来）、get（获得）、give（给予）、take（拿）、make（制作）、put（放）、keep（保持）、let（让）、seem（看来）、see（看）、say（说）、send（送）、will（将）、may（可能） 。<br>介词、连词、代词、副词等虚词：如in（在…里）、on（在…上）、with（用）、and（和）、or（或者）、if（如果）、not（不）、all（全部）、some（一些）、very（非常）、now（现在）、then（那时）等 。<br><br>学习与应用<br>学习策略：先掌握这850个词汇及其常用搭配，再逐步扩展到更复杂的词汇和语法 。<br>使用场景：日常交流、阅读基础文章、口语表达、写作入门。<br>资源：部分网页提供完整列表、PDF下载或视频讲解，便于系统学习 。</p>
-<p>示例词汇<br>操作动词：do, make, take, put, go, come, get, give<br>常用名词：time, day, work, year, table, house, dog, apple<br>形容词：good, new, big, first, long<br>副词/功能词：again, ever, now, out, very, not, all, some, and, or, if, then<br>掌握这850个基础词汇后，学习者可以理解和表达大部分日常英语概念，为进一步学习英语打下坚实基础 。</p>
-<p> </p>
-<hr>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>【E系列cpu神教】垃圾佬装机专题</title>
-        <author>
-            <name>ZPROFESSOR</name>
-        </author>
-        <link href="https://z-professornotebook.github.io/githubbloger51.html"/>
-        <id>https://z-professornotebook.github.io/githubbloger51.html</id>
-            <category term="应用与程序"/>
-
-        <updated>2026-07-09T13:36:46+08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    E系列cpu介绍： Intel Xeon E 系列是面向服务器和工作站的单路处理器，强调稳定性和多任务处理能力。 Intel Xeon E 系列处理器主要用于服务器、工作站和数据中心，设计目标是长时间稳定运行、低出错率，适合持续通电的环境 。相比家用的酷睿 i 系列，E 系列更注重可靠性和多核性能，而非单核高频率的极致性能。 E系列cpu核心特点： 核心数与线程：E 系列通常核心数比同代 i 系列多，适合多任务和虚拟化应用。例如 Xeon E-2136 为 6 核 12 线程，E-2176G 为 8 核 16 线程&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>E系列cpu介绍：<br>Intel Xeon E 系列是面向服务器和工作站的单路处理器，强调稳定性和多任务处理能力。<br>Intel Xeon E 系列处理器主要用于服务器、工作站和数据中心，设计目标是长时间稳定运行、低出错率，适合持续通电的环境 。相比家用的酷睿 i 系列，E 系列更注重可靠性和多核性能，而非单核高频率的极致性能。<br><br>E系列cpu核心特点：<br>核心数与线程：E 系列通常核心数比同代 i 系列多，适合多任务和虚拟化应用。例如 Xeon E-2136 为 6 核 12 线程，E-2176G 为 8 核 16 线程 。<br>主频与缓存：主频相对 i 系列略低，但三级缓存更大，有助于服务器负载处理。部分型号集成 UHD Graphics P630 显卡 。<br>内存支持：支持 DDR4 内存，部分型号支持更高频率和 ECC 内存，保证数据完整性 。<br>稳定性：E 系列 CPU 设计用于长时间运行，功耗和发热控制更优，适合 24/7 的服务器环境 。<br><br>E系列cpu系列演变：<br>E3 系列：面向入门级服务器和工作站，单路处理器，可兼容部分家用主板 。<br>E5 系列：支持单路和双路服务器，适合中大型服务器，多核性能更强 。<br>E7 系列：面向大型服务器，支持多路配置（双路、四路、八路），主要用于企业级数据中心 。<br>2017 年后，E3 系列被全新的 Xeon E 系列取代，继续作为单路服务器和工作站的主力产品 。<br><br>优点是：1、多线程性能强。志强一般有更多的核心，更多的线程。适合多线程场景。部分志强支持多路CPU并联，可以堆核心，堆线程。双路E5了解下。2、价格便宜，相比同样核心数量的酷睿产品，志强便宜很多。但这里又牵扯到另外一个缺点，后面会说。3、绝大多数志强支持ECC内存。4、部分志强支持更多通道的内存，甚至8通道。5、部分志强拥有更多的PCIE通道，扩展性强。<br>缺点是：1、上面说了价格便宜，但你能用上的便宜志强，基本是都是过时退役的产品，而且很多是洋垃圾。跟新酷睿同代的志强，又或者还没退役下来的，普通人买不起。当年那个E3除外，所以它火了。2、挑主板，要不就是专用接口，要上专用的主板。同样，由于大多数人选择的是退役过时的志强，配套的主板多数都是换代下来的，因此主板大多数只能买二手、洋垃圾或者寨板。3、频率低，总体上来说玩游戏没酷睿好。4、绝大多数志强不带核显，需要搭配亮机卡使用。5、不能超频，少了超频的乐趣。6、洋垃圾没质保，尽管也不容易坏就是了。</p>
-<p>我感觉至强E系列cpu，有点当年赛扬cpu的感觉。虽然本质不同，但是作用确是一样的，都是赞机时候作为成本平替的选择，同样都会在平替的过程中享受一种特别的乐趣。赛扬的超频，至强的性能。<br><br>总结一句话，花小钱办大事，平替，垃圾佬的成就感。</p>
-<p>(备注：玩游戏看重单核，多开搬砖编辑视频等多媒体娱乐看重多核）</p>
-<p> </p>
-<hr>
-<p>英特尔至强E3、E5、E7处理器有什么区别呢？</p>
-<p>首先，Intel E3，E5，E7代表了3个不同档次的至强CPU，至强“E系列”的这种命名方式有些类似桌面上的Core i3，i5，i7；比较通俗易懂的解释就是可以对应我们的豪华汽车生产商宝马3系，5系和7系。分别对应好，更好和最好。<br><br>其中：<br><br>至强E3处理器是第一款使用Haswell微架构的至强处理器芯片（目前，英特尔的多数芯片是以Ivy Bridge架构为基础），最多配置4个内核，最高支持32GB内存，耗电量只有13瓦，主要用于工作站和单路服务器；<br><br>至强E5处理器主要用于中档服务器，最高支持768GB内存，耗电量为60至130瓦，适用入门级双路服务器、高性能双路和四路服务器，也是目前使用最为广泛的主流处理器；<br><br>至强E7处理器是英特尔性能最高的服务器处理器，芯片包括30GB三级缓存，最高支持4TB内存，耗电量为130瓦。这种处理器可用于8路服务器。<br><br>至于具体应用可以根据处理器的型号来判定，以英特尔发布的E5-2600 V2为例，这里的“2”，也就是连字符后的第一个数字，它代表处理器最多支持的并行路数，有1、2、4、8四种规格，分别代表了单路、双路、四路和八路。我们现在举例的这款E5-2600 至强CPU，连字符后的第一个数字是"2"，就表示这款CPU为双路，只能用于对应的双路芯片组的主板。<br><br>紧接着，我们来看连字符后的第二个数字，它代表处理器封装接口形式，一共有2，4，6，8四种规格，分别是2对应Socket H2(LGA 1155)、4对应Socket B2(LGA 1356)、6对应Socket R(LGA 2011)、8对应Socket LS(LGA 1567)。我们举例的这款E5-2600，连字符后的第二个数字是"6"，对应Socket R(LGA 2011)<br><br>然后，连字符后第三和第四位代表编号序列，一般是数字越大产品性能越高，价格也更贵。<br><br>最后，看连字符后第四位数字后面的代表什么。紧跟第四位数字后的"L"代表是低功耗版，留空的话就代表是标准版。<br><br>连字符后面最后的数字代表修订版本，比如v2、v3、v4等等。<br><br>转载于:<a href="https://my.oschina.net/hernan/blog/1924259" target="_blank" rel="noopener noreferrer">https://my.oschina.net/hernan/blog/1924259</a></p>
-<p>E3和E5哪个适合打游戏<br>在游戏场景下，Xeon E5 系列通常比 E3 更适合，尤其是多线程优化的游戏和高性能显卡搭配时。<br>核心与线程对比<br>E3 系列（如 E3-1231 V3）通常为 4 核 8 线程，基础主频较高（3.4 GHz），适合单线程性能要求高的应用，但多线程能力有限 。<br>E5 系列（如 E5-2666 V3 或 E5-2680 V4）拥有 10-14 核 20-28 线程，缓存更大（35 MB），在多线程优化的游戏中表现更好，尤其是像《战地5》这种支持多核的游戏 。<br><br>游戏性能表现<br>E3 优势：高主频、低功耗，适合轻度游戏和办公使用，搭配中低端显卡（如 RX570）也能流畅运行 。<br>E5 优势：多核心和大缓存可以充分发挥高端显卡性能（如 2060 及以上），在多线程优化游戏中帧数更高，体验更顺畅 。<br>实测中，E5 在《吃鸡》和《战地5》中明显优于 E3，尤其在高画质和大地图场景下 。<br>选择建议<br>显卡较低端（如 RX570）：E3 足够，性价比高，功耗低，日常体验舒适 。<br>显卡中高端（如 2060 及以上）：E5 更适合，可以充分发挥显卡性能，避免 CPU 瓶颈 。<br>多任务或未来升级考虑：E5 的多核优势更明显，适合长期使用和多任务场景 。<br>总结<br>轻度游戏或办公兼顾：选择 E3 系列即可，省电且稳定。<br>追求高帧率、多核优化游戏体验：选择 E5 系列更合适，尤其是搭配中高端显卡时。<br>注意 E5 功耗较高，散热和主板兼容性需考虑。<br>综合来看，如果你的目标是 打游戏并充分利用显卡性能，E5 系列是更优选择；如果只是轻度游戏或办公，E3 系列已经足够。</p>
-<p> </p>
-<hr>
-<p> </p>
-<p>“经典洋垃圾套餐”<br>(处理器)E5-2670 v3 + (内存）DDR4 ECC REG + (主板）X99某不知名主板。</p>
-<p>日期：20250909</p>
-<p>================= <span style="color: #3598db;"><strong>装机方案表 </strong></span>=================</p>
-<p>【2026年E3装机方案表】</p>
-<p>E3家族几十个型号看着乱，其实逻辑特别简单：只要1230起步的，四核八线程是底线。 至于V3还是V5，频率差那零点几，日常用起来根本没区别。谁便宜买谁，这才是捡垃圾的精髓。</p>
-<p>① 极致办公核显机（无独显） H81全新主板 + E3-1246 v3 + DDR3 8G/16G + SATA固态 + 300W电源；<br>② 网游全能性价比机 H81全新主板 + E3-1230 v3 + DDR3 16G + SATA固态 + GTX 750Ti/960 + 350~400W电源；<br>③ 小顶配流畅主机 H81全新主板 + E3-1270 v3 + DDR3 16G + SATA固态 + GTX 1060 3G/6G + 400W电源</p>
-<p> </p>
-<pre class="language-html"><code>E3cpu 推荐型号 2026年7月
-
-型号 % 相当于 （备注）
-E3 1230V6 % I7 7700
-E3 1270V6 % I7 7700
-E3 1245V5 % I7 6700 （核显HD P530）
-
-主板：B150/B250/Z170/Z270
-内存：DDR3</code></pre>
-<p> </p>
-<p>===========================================</p>
-<p>【2026年E5装机方案表】</p>
-<p>这里给大家做精简重点梳理，方便快速选型：<br><br>1. 性价比入门首选（百元内）<br>E5-2620 v3、E5-2630 v4、E5-2650 v3，8-10 核起步，功耗 85-105W，搭配普通 X99 主板，多开、挂机完全够用，预算极低闭眼入。<br>2. 中端生产力神 U<br>E5-2673 v3、E5-2680 v3/v4，12 核 24 线程标配，主频适中，功耗可控，视频剪辑、虚拟机集群、模拟器多开稳稳拿捏，二手价几十到一百多，性价比碾压千元酷睿。<br>3. 高端满血旗舰<br>E5-2698 v4、E5-2699 v4，最高 22 核 44 线程，超大三级缓存，适合专业渲染、大型服务器、多开工作室，当年万元级服务器 U，如今百元就能拿下。<br>4. 避坑提醒<br>千万别跨代乱插：v1/v2 是 LGA2011，v3/v4 是 LGA2011-3/X99，插槽不通用，插不亮还可能烧主板；<br>内存分清 DDR3/DDR4，v1/v2 只能用 DDR3，v3/v4 部分兼容、优先 DDR4；<br>低功耗带 L 后缀型号（2608L/2618L），功耗更低、发热更小，适合静音机箱；<br>后缀 W 型号（2687W）高功耗高主频，需要好散热，普通风冷压不住。</p>
-<p> </p>
-<pre class="language-html"><code>E5cpu 推荐型号 2026年7月
-
-型号 % 相当于 （备注）
-E5-2678V3 % I5 8600
-E5-2696V3 % I7 7700 
-E5-2680V3 % I7 10700（内存DDR4）
-
-主板：X79/X99
-内存：DDR3</code></pre>
-<p> </p>
-<p>===========================================</p>
-<p>最后提示：买二手至强，别只看型号，<strong>一定要查CPU-Z截图、看实物照片、问清来源。</strong></p>
-<p> </p>
-<hr>
-<p>相关：<br><br><a href="https://tieba.baidu.com/f?kw=%E8%87%B3%E5%BC%BA&amp;ie=utf-8" target="_blank" rel="noopener noreferrer">至强吧-百度贴吧--淘出被埋没的神U~~~--讨论服务器及工作站专用CPU，普通PC也能使用哦~</a><br><br><a href="https://tieba.baidu.com/f?kw=%E5%9B%BE%E6%8B%89%E4%B8%81" target="_blank" rel="noopener noreferrer">图拉丁吧-百度贴吧--图拉丁吧，技术天堂，DIY爱好者的聚集地--本吧欢迎广大DIY爱好者来聊软硬件，这里有硬件和软件的各种讨论，和使用小窍门以及心得，具体见精品区。以图拉丁精神的宗旨，在此呈现。</a></p>
-<p><a href="https://tieba.baidu.com/f?kw=%E5%9E%83%E5%9C%BE%E4%BD%AC" target="_blank" rel="noopener noreferrer">垃圾佬吧-百度贴吧--垃圾佬的天堂--垃圾佬吧是所有垃圾佬的天堂，不管你爱好洋垃圾，土垃圾还是来自图拉丁的电脑硬件垃圾佬，这里是你们永远的乐土，垃圾佬吧不仅仅谈垃圾！</a></p>
-<p>垃圾佬必备工具：<a href="https://www.tbtool.cn/" target="_blank" rel="noopener noreferrer">图吧工具箱</a></p>
-<p><a href="https://www.dnpz.net/" target="_blank" rel="noopener noreferrer">组装电脑配置推荐_台式电脑主机配置清单及价格-装机天下</a></p>
-<hr>
-<p>本内容持续编辑中，20260709。</p>
             ]]>
         </content>
     </entry>
